@@ -1,0 +1,4 @@
+DockerDownloadFile\BaseTest.class
+DockerDownloadFile\AppTest.class
+DockerDownloadFile\DownloadTest.class
+DockerDownloadFile\PageObjectForDownload.class

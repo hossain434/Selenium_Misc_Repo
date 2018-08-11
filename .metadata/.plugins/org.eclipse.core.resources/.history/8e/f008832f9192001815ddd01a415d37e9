@@ -1,0 +1,30 @@
+package Switch_Browsers_Window;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+import com.google.inject.Inject;
+
+public class ToolsQATest {
+
+/*    @Inject
+    private ToolsQA toolsQA;
+
+    @Inject
+    private ToolsQANewWindow toolsQANewWindow;
+
+    @Test
+    public void switchTest() {
+
+        toolsQA.goTo();
+        toolsQA.launchWindow();
+        toolsQANewWindow.getTitle();
+        }*/
+
+	@Test
+	System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
+	WebDriver driver = new ChromeDriver();
+this.driver.get("http://toolsqa.com/automation-practice-switch-windows/");
+    }
+

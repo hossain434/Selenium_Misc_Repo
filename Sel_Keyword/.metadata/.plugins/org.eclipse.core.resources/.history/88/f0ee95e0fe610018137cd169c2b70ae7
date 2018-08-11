@@ -1,0 +1,386 @@
+
+2018-05-26 12:29:42,983 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:29:42,983 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:29:42,983 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:29:42,983 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:29:42,984 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:29:42,986 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:29:42,987 INFO  [Log] Opening Browser 
+2018-05-26 12:29:47,378 INFO  [Log] Chrome browser started 
+2018-05-26 12:29:47,655 INFO  [Log] Navigating to URL 
+2018-05-26 12:29:50,644 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:29:52,142 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:29:52,330 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:29:52,489 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:29:52,650 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:29:57,732 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:30:06,483 ERROR [Log] Not able to click --- null 
+2018-05-26 12:30:06,633 INFO  [Log] Closing the browser 
+2018-05-26 12:30:07,478 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:30:07,478 INFO  [Log] X 
+2018-05-26 12:30:07,478 INFO  [Log] X 
+2018-05-26 12:30:07,478 INFO  [Log] X 
+2018-05-26 12:30:07,478 INFO  [Log] X 
+2018-05-26 12:33:46,029 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:33:46,030 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:33:46,030 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:33:46,030 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:33:46,030 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:33:46,032 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:33:46,033 INFO  [Log] Opening Browser 
+2018-05-26 12:33:48,576 INFO  [Log] Chrome browser started 
+2018-05-26 12:33:48,779 INFO  [Log] Navigating to URL 
+2018-05-26 12:33:51,310 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:33:53,096 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:33:53,245 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:33:53,382 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:33:53,506 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:33:58,565 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:34:08,659 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 2d70f7caea39978194b9fb230acb7b6c
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 12:34:08,739 INFO  [Log] Closing the browser 
+2018-05-26 12:34:09,545 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:34:09,545 INFO  [Log] X 
+2018-05-26 12:34:09,545 INFO  [Log] X 
+2018-05-26 12:34:09,545 INFO  [Log] X 
+2018-05-26 12:34:09,545 INFO  [Log] X 
+2018-05-26 12:37:25,872 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:37:25,872 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:37:25,873 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:37:25,873 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:37:25,873 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:37:25,874 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:37:25,875 INFO  [Log] Opening Browser 
+2018-05-26 12:37:28,493 INFO  [Log] Chrome browser started 
+2018-05-26 12:37:28,700 INFO  [Log] Navigating to URL 
+2018-05-26 12:37:31,177 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:37:32,830 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:37:32,965 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:37:33,104 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:37:33,246 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:37:38,323 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:37:48,409 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: cafb84574bcd29a4451a062edb99f7ee
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 12:37:48,495 INFO  [Log] Closing the browser 
+2018-05-26 12:37:49,280 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:37:49,280 INFO  [Log] X 
+2018-05-26 12:37:49,280 INFO  [Log] X 
+2018-05-26 12:37:49,280 INFO  [Log] X 
+2018-05-26 12:37:49,280 INFO  [Log] X 
+2018-05-26 12:38:37,620 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:38:37,621 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:38:37,621 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:38:37,621 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:38:37,621 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:38:37,623 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:38:37,624 INFO  [Log] Opening Browser 
+2018-05-26 12:38:40,167 INFO  [Log] Chrome browser started 
+2018-05-26 12:38:40,389 INFO  [Log] Navigating to URL 
+2018-05-26 12:38:43,848 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:38:45,985 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:38:46,144 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:38:46,278 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:38:46,392 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:38:51,467 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:39:01,507 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: aa099cf3bd99a49008b2f7c06c46f53e
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 12:39:01,567 INFO  [Log] Closing the browser 
+2018-05-26 12:39:02,253 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:39:02,253 INFO  [Log] X 
+2018-05-26 12:39:02,253 INFO  [Log] X 
+2018-05-26 12:39:02,253 INFO  [Log] X 
+2018-05-26 12:39:02,253 INFO  [Log] X 
+2018-05-26 12:41:29,915 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:41:29,916 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:41:29,916 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:41:29,916 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:41:29,916 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:41:29,918 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:41:29,919 INFO  [Log] Opening Browser 
+2018-05-26 12:41:32,561 INFO  [Log] Chrome browser started 
+2018-05-26 12:41:32,769 INFO  [Log] Navigating to URL 
+2018-05-26 12:41:35,379 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:41:36,861 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:41:37,006 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:41:37,147 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:41:37,281 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:41:39,385 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:41:49,476 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 7862182d7cfc155b5b38c81c14f3fd93
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 12:41:49,540 INFO  [Log] Closing the browser 
+2018-05-26 12:41:50,381 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:41:50,381 INFO  [Log] X 
+2018-05-26 12:41:50,381 INFO  [Log] X 
+2018-05-26 12:41:50,381 INFO  [Log] X 
+2018-05-26 12:41:50,381 INFO  [Log] X 
+2018-05-26 12:43:05,325 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:43:05,325 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:43:05,325 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:43:05,325 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:43:05,325 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:43:05,327 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:43:05,328 INFO  [Log] Opening Browser 
+2018-05-26 12:43:07,837 INFO  [Log] Chrome browser started 
+2018-05-26 12:43:08,042 INFO  [Log] Navigating to URL 
+2018-05-26 12:43:10,789 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:43:12,470 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:43:12,618 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:43:12,757 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:43:12,898 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:43:15,049 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:43:25,145 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: bb520a9eab1ac1656d0711f0e8fce43d
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 12:43:25,213 INFO  [Log] Closing the browser 
+2018-05-26 12:43:25,986 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:43:25,986 INFO  [Log] X 
+2018-05-26 12:43:25,986 INFO  [Log] X 
+2018-05-26 12:43:25,987 INFO  [Log] X 
+2018-05-26 12:43:25,987 INFO  [Log] X 
+2018-05-26 12:48:46,925 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:48:46,926 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:48:46,926 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:48:46,926 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:48:46,926 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:48:46,928 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:48:46,929 INFO  [Log] Opening Browser 
+2018-05-26 12:48:49,123 INFO  [Log] Chrome browser started 
+2018-05-26 12:48:49,327 INFO  [Log] Navigating to URL 
+2018-05-26 12:48:51,977 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:48:53,668 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:48:53,833 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:48:53,957 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:48:54,101 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:48:56,244 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:49:06,337 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: ca36d150f84b3a6697a7a6626341fead
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 12:49:06,405 INFO  [Log] Closing the browser 
+2018-05-26 12:49:07,151 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:49:07,151 INFO  [Log] X 
+2018-05-26 12:49:07,151 INFO  [Log] X 
+2018-05-26 12:49:07,151 INFO  [Log] X 
+2018-05-26 12:49:07,151 INFO  [Log] X 
+2018-05-26 12:58:21,335 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:58:21,336 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:58:21,336 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:58:21,336 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:58:21,336 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:58:21,338 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:58:21,339 INFO  [Log] Opening Browser 
+2018-05-26 12:58:23,668 INFO  [Log] Chrome browser started 
+2018-05-26 12:58:23,864 INFO  [Log] Navigating to URL 
+2018-05-26 12:58:26,595 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 12:58:28,219 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:58:28,377 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:58:28,488 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:58:28,629 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:58:30,730 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 12:58:40,826 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 54026afc395506c43ffbcd96de0d512a
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 12:58:40,891 INFO  [Log] Closing the browser 
+2018-05-26 12:58:41,672 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:58:41,672 INFO  [Log] X 
+2018-05-26 12:58:41,672 INFO  [Log] X 
+2018-05-26 12:58:41,672 INFO  [Log] X 
+2018-05-26 12:58:41,673 INFO  [Log] X 
+2018-05-26 13:00:54,156 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:00:54,156 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:00:54,156 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 13:00:54,156 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:00:54,156 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:00:54,158 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 13:00:54,160 INFO  [Log] Opening Browser 
+2018-05-26 13:00:56,564 INFO  [Log] Chrome browser started 
+2018-05-26 13:00:56,782 INFO  [Log] Navigating to URL 
+2018-05-26 13:00:59,279 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 13:01:01,050 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 13:01:01,203 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 13:01:01,333 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 13:01:01,463 INFO  [Log] Wait for 5 seconds 
+2018-05-26 13:01:03,586 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 13:01:13,674 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.102.224', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: fdc06d6d281c729cc0298012650a859b
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 13:01:13,740 INFO  [Log] Closing the browser 
+2018-05-26 13:01:14,548 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 13:01:14,548 INFO  [Log] X 
+2018-05-26 13:01:14,548 INFO  [Log] X 
+2018-05-26 13:01:14,548 INFO  [Log] X 
+2018-05-26 13:01:14,549 INFO  [Log] X 
+2018-05-26 13:05:00,654 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:05:00,655 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:05:00,655 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 13:05:00,655 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:05:00,655 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:05:00,657 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 13:05:00,658 INFO  [Log] Opening Browser 
+2018-05-26 13:05:02,873 INFO  [Log] Chrome browser started 
+2018-05-26 13:05:03,094 INFO  [Log] Navigating to URL 
+2018-05-26 13:05:05,749 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 13:05:07,748 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 13:05:07,927 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 13:05:08,053 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 13:05:08,207 INFO  [Log] Wait for 5 seconds 
+2018-05-26 13:05:10,287 INFO  [Log] Closing the browser 
+2018-05-26 13:05:11,162 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 13:05:11,162 INFO  [Log] X 
+2018-05-26 13:05:11,162 INFO  [Log] X 
+2018-05-26 13:05:11,162 INFO  [Log] X 
+2018-05-26 13:05:11,162 INFO  [Log] X 
+2018-05-26 13:07:35,549 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:07:35,549 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:07:35,549 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 13:07:35,549 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:07:35,549 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:07:35,551 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 13:07:35,552 INFO  [Log] Opening Browser 
+2018-05-26 13:07:37,723 INFO  [Log] Chrome browser started 
+2018-05-26 13:07:37,947 INFO  [Log] Navigating to URL 
+2018-05-26 13:07:40,426 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 13:07:42,156 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 13:07:42,316 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 13:07:42,431 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 13:07:42,623 INFO  [Log] Wait for 5 seconds 
+2018-05-26 13:07:44,709 INFO  [Log] Closing the browser 
+2018-05-26 13:07:45,588 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 13:07:45,588 INFO  [Log] X 
+2018-05-26 13:07:45,588 INFO  [Log] X 
+2018-05-26 13:07:45,588 INFO  [Log] X 
+2018-05-26 13:07:45,588 INFO  [Log] X 
+2018-05-26 13:09:42,021 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:09:42,021 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:09:42,021 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 13:09:42,021 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:09:42,021 INFO  [Log] **************************************************************************************** 
+2018-05-26 13:09:42,023 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 13:09:42,025 INFO  [Log] Opening Browser 
+2018-05-26 13:09:44,267 INFO  [Log] Chrome browser started 
+2018-05-26 13:09:44,478 INFO  [Log] Navigating to URL 
+2018-05-26 13:09:47,173 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 13:09:48,886 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 13:09:49,050 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 13:09:49,205 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 13:09:49,337 INFO  [Log] Wait for 5 seconds 
+2018-05-26 13:09:51,384 INFO  [Log] Closing the browser 
+2018-05-26 13:09:52,271 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 13:09:52,271 INFO  [Log] X 
+2018-05-26 13:09:52,272 INFO  [Log] X 
+2018-05-26 13:09:52,272 INFO  [Log] X 
+2018-05-26 13:09:52,272 INFO  [Log] X 
+2018-05-27 15:32:42,180 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:32:42,180 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:32:42,180 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 15:32:42,180 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:32:42,180 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:32:42,180 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 15:32:42,180 INFO  [Log] Opening Browser 
+2018-05-27 15:32:44,957 INFO  [Log] Chrome browser started 
+2018-05-27 15:32:45,200 INFO  [Log] Navigating to URL 
+2018-05-27 15:32:48,168 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-27 15:32:49,687 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 15:32:49,868 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 15:32:49,989 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 15:32:50,126 INFO  [Log] Wait for 5 seconds 
+2018-05-27 15:32:52,288 INFO  [Log] Closing the browser 
+2018-05-27 15:32:53,282 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 15:32:53,282 INFO  [Log] X 
+2018-05-27 15:32:53,282 INFO  [Log] X 
+2018-05-27 15:32:53,282 INFO  [Log] X 
+2018-05-27 15:32:53,282 INFO  [Log] X 
+2018-05-27 15:37:07,054 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:37:07,054 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:37:07,054 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 15:37:07,054 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:37:07,054 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:37:07,054 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 15:37:07,054 INFO  [Log] Opening Browser 
+2018-05-27 15:37:09,474 INFO  [Log] Chrome browser started 
+2018-05-27 15:37:09,703 INFO  [Log] Navigating to URL 
+2018-05-27 15:37:10,939 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 15:37:20,992 ERROR [Log] Not able to Enter UserName --- no such element: Unable to locate element: {"method":"xpath","selector":"userName"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.53.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 746aefa702b16cfd46c7e891d50ebed1
+*** Element info: {Using=xpath, value=userName} 
+2018-05-27 15:37:21,054 INFO  [Log] Closing the browser 
+2018-05-27 15:37:21,867 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 15:37:21,867 INFO  [Log] X 
+2018-05-27 15:37:21,867 INFO  [Log] X 
+2018-05-27 15:37:21,867 INFO  [Log] X 
+2018-05-27 15:37:21,867 INFO  [Log] X 

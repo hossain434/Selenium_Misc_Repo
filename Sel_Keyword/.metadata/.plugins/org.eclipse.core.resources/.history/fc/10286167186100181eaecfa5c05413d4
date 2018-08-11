@@ -1,0 +1,854 @@
+2018-05-26 00:16:07,369 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:07,370 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:07,370 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 00:16:07,370 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:07,370 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:07,372 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 00:16:07,372 INFO  [Log] Opening Browser 
+2018-05-26 00:16:07,512 INFO  [Log] Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe 
+2018-05-26 00:16:07,642 INFO  [Log] Closing the browser 
+2018-05-26 00:16:07,642 ERROR [Log] Not able to Close the Browser --- null 
+2018-05-26 00:16:07,692 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 00:16:07,692 INFO  [Log] X 
+2018-05-26 00:16:07,692 INFO  [Log] X 
+2018-05-26 00:16:07,692 INFO  [Log] X 
+2018-05-26 00:16:07,692 INFO  [Log] X 
+2018-05-26 00:16:28,281 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:28,281 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:28,281 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 00:16:28,281 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:28,281 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:16:28,283 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 00:16:28,284 INFO  [Log] Opening Browser 
+2018-05-26 00:16:28,416 INFO  [Log] Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe 
+2018-05-26 00:16:28,530 INFO  [Log] Closing the browser 
+2018-05-26 00:16:28,530 ERROR [Log] Not able to Close the Browser --- null 
+2018-05-26 00:16:28,573 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 00:16:28,573 INFO  [Log] X 
+2018-05-26 00:16:28,573 INFO  [Log] X 
+2018-05-26 00:16:28,573 INFO  [Log] X 
+2018-05-26 00:16:28,573 INFO  [Log] X 
+2018-05-26 00:49:22,555 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:22,555 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:22,555 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 00:49:22,555 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:22,555 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:22,555 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 00:49:22,555 INFO  [Log] Opening Browser 
+2018-05-26 00:49:22,695 INFO  [Log] Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe 
+2018-05-26 00:49:22,805 INFO  [Log] Closing the browser 
+2018-05-26 00:49:22,805 ERROR [Log] Not able to Close the Browser --- null 
+2018-05-26 00:49:22,852 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 00:49:22,852 INFO  [Log] X 
+2018-05-26 00:49:22,852 INFO  [Log] X 
+2018-05-26 00:49:22,852 INFO  [Log] X 
+2018-05-26 00:49:22,852 INFO  [Log] X 
+2018-05-26 00:49:40,842 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:40,842 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:40,842 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 00:49:40,842 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:40,842 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:49:40,842 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 00:49:40,842 INFO  [Log] Opening Browser 
+2018-05-26 00:49:40,983 INFO  [Log] Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe 
+2018-05-26 00:49:41,092 INFO  [Log] Closing the browser 
+2018-05-26 00:49:41,092 ERROR [Log] Not able to Close the Browser --- null 
+2018-05-26 00:49:41,139 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 00:49:41,139 INFO  [Log] X 
+2018-05-26 00:49:41,139 INFO  [Log] X 
+2018-05-26 00:49:41,139 INFO  [Log] X 
+2018-05-26 00:49:41,139 INFO  [Log] X 
+2018-05-26 00:55:05,576 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:55:05,576 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:55:05,576 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 00:55:05,576 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:55:05,576 INFO  [Log] **************************************************************************************** 
+2018-05-26 00:55:05,576 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 00:55:05,576 INFO  [Log] Opening Browser 
+2018-05-26 00:55:05,717 INFO  [Log] Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe 
+2018-05-26 00:55:05,826 INFO  [Log] Closing the browser 
+2018-05-26 00:55:05,826 ERROR [Log] Not able to Close the Browser --- null 
+2018-05-26 00:55:05,889 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 00:55:05,889 INFO  [Log] X 
+2018-05-26 00:55:05,889 INFO  [Log] X 
+2018-05-26 00:55:05,889 INFO  [Log] X 
+2018-05-26 00:55:05,889 INFO  [Log] X 
+2018-05-26 01:03:37,144 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:03:37,144 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:03:37,144 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:03:37,144 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:03:37,144 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:03:37,144 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:03:37,144 INFO  [Log] Opening Browser 
+2018-05-26 01:03:37,269 INFO  [Log] Not able to open the Browser --- The driver executable does not exist: C:\chromedriver.exe 
+2018-05-26 01:03:37,379 INFO  [Log] Closing the browser 
+2018-05-26 01:03:37,379 ERROR [Log] Not able to Close the Browser --- null 
+2018-05-26 01:03:37,426 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:03:37,426 INFO  [Log] X 
+2018-05-26 01:03:37,426 INFO  [Log] X 
+2018-05-26 01:03:37,426 INFO  [Log] X 
+2018-05-26 01:03:37,426 INFO  [Log] X 
+2018-05-26 01:05:47,859 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:05:47,859 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:05:47,859 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:05:47,859 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:05:47,859 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:05:47,859 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:05:47,859 INFO  [Log] Opening Browser 
+2018-05-26 01:05:50,358 INFO  [Log] Chrome browser started 
+2018-05-26 01:05:50,501 INFO  [Log] Navigating to URL 
+2018-05-26 01:05:53,380 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:05:55,860 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 01:05:56,128 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 01:05:56,266 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 01:05:56,393 INFO  [Log] Wait for 5 seconds 
+2018-05-26 01:06:01,454 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 01:06:03,972 ERROR [Log] Not able to click --- null 
+2018-05-26 01:06:04,019 INFO  [Log] Closing the browser 
+2018-05-26 01:06:04,753 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:06:04,753 INFO  [Log] X 
+2018-05-26 01:06:04,753 INFO  [Log] X 
+2018-05-26 01:06:04,753 INFO  [Log] X 
+2018-05-26 01:06:04,753 INFO  [Log] X 
+2018-05-26 01:07:04,736 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:07:04,736 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:07:04,736 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:07:04,736 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:07:04,736 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:07:04,736 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:07:04,736 INFO  [Log] Opening Browser 
+2018-05-26 01:07:07,133 INFO  [Log] Chrome browser started 
+2018-05-26 01:07:07,249 INFO  [Log] Navigating to URL 
+2018-05-26 01:07:09,892 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:07:12,010 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 01:07:12,172 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 01:07:12,289 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 01:07:12,411 INFO  [Log] Wait for 5 seconds 
+2018-05-26 01:07:17,514 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 01:26:29,037 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:26:29,037 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:26:29,037 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:26:29,037 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:26:29,037 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:26:29,037 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:26:29,037 INFO  [Log] Opening Browser 
+2018-05-26 01:26:31,681 INFO  [Log] Chrome browser started 
+2018-05-26 01:26:31,824 INFO  [Log] Navigating to URL 
+2018-05-26 01:27:02,553 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:27:03,177 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 01:27:09,793 ERROR [Log] Not able to Enter UserName --- null 
+2018-05-26 01:27:09,871 INFO  [Log] Closing the browser 
+2018-05-26 01:27:10,656 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:27:10,656 INFO  [Log] X 
+2018-05-26 01:27:10,656 INFO  [Log] X 
+2018-05-26 01:27:10,656 INFO  [Log] X 
+2018-05-26 01:27:10,656 INFO  [Log] X 
+2018-05-26 01:28:33,654 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:28:33,655 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:28:33,655 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:28:33,655 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:28:33,655 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:28:33,657 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:28:33,657 INFO  [Log] Opening Browser 
+2018-05-26 01:28:36,062 INFO  [Log] Chrome browser started 
+2018-05-26 01:28:36,196 INFO  [Log] Navigating to URL 
+2018-05-26 01:28:59,695 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:29:05,944 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 01:29:06,125 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 01:29:06,232 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 01:29:06,339 INFO  [Log] Wait for 5 seconds 
+2018-05-26 01:29:11,405 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 01:29:21,458 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"xpath","selector":".//*[@id='account_logout']/a"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.52.72', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: d41ee01539d3e45fa9f162d3fee65d6d
+*** Element info: {Using=xpath, value=.//*[@id='account_logout']/a} 
+2018-05-26 01:29:21,500 INFO  [Log] Closing the browser 
+2018-05-26 01:29:22,243 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:29:22,244 INFO  [Log] X 
+2018-05-26 01:29:22,244 INFO  [Log] X 
+2018-05-26 01:29:22,244 INFO  [Log] X 
+2018-05-26 01:29:22,244 INFO  [Log] X 
+2018-05-26 01:30:09,394 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:30:09,394 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:30:09,394 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:30:09,394 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:30:09,395 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:30:09,396 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:30:09,397 INFO  [Log] Opening Browser 
+2018-05-26 01:30:11,826 INFO  [Log] Chrome browser started 
+2018-05-26 01:30:11,967 INFO  [Log] Navigating to URL 
+2018-05-26 01:30:48,933 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:30:50,143 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 01:30:55,195 ERROR [Log] Not able to Enter UserName --- null 
+2018-05-26 01:30:55,256 INFO  [Log] Closing the browser 
+2018-05-26 01:30:55,994 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:30:55,995 INFO  [Log] X 
+2018-05-26 01:30:55,995 INFO  [Log] X 
+2018-05-26 01:30:55,995 INFO  [Log] X 
+2018-05-26 01:30:55,995 INFO  [Log] X 
+2018-05-26 01:31:22,659 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:31:22,660 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:31:22,660 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:31:22,660 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:31:22,660 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:31:22,661 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:31:22,662 INFO  [Log] Opening Browser 
+2018-05-26 01:31:25,097 INFO  [Log] Chrome browser started 
+2018-05-26 01:31:25,242 INFO  [Log] Navigating to URL 
+2018-05-26 01:31:26,165 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:31:33,783 ERROR [Log] Not able to click --- null 
+2018-05-26 01:31:33,848 INFO  [Log] Closing the browser 
+2018-05-26 01:31:34,499 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:31:34,499 INFO  [Log] X 
+2018-05-26 01:31:34,499 INFO  [Log] X 
+2018-05-26 01:31:34,499 INFO  [Log] X 
+2018-05-26 01:31:34,499 INFO  [Log] X 
+2018-05-26 01:44:00,682 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:44:00,682 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:44:00,682 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:44:00,682 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:44:00,682 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:44:00,685 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:44:00,685 INFO  [Log] Opening Browser 
+2018-05-26 01:44:03,326 INFO  [Log] Chrome browser started 
+2018-05-26 01:44:03,468 INFO  [Log] Navigating to URL 
+2018-05-26 01:44:04,683 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:44:04,716 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.52.72', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: bdc6bd6d4ea468eff08427c7bc0cdc6e
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 01:44:04,757 INFO  [Log] Closing the browser 
+2018-05-26 01:44:05,476 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:44:05,476 INFO  [Log] X 
+2018-05-26 01:44:05,476 INFO  [Log] X 
+2018-05-26 01:44:05,476 INFO  [Log] X 
+2018-05-26 01:44:05,476 INFO  [Log] X 
+2018-05-26 01:45:40,479 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:45:40,480 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:45:40,480 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:45:40,480 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:45:40,480 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:45:40,482 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:45:40,483 INFO  [Log] Opening Browser 
+2018-05-26 01:45:43,101 INFO  [Log] Chrome browser started 
+2018-05-26 01:45:43,236 INFO  [Log] Navigating to URL 
+2018-05-26 01:45:44,329 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:45:44,365 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.52.72', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: ed5a5160541c2424de6502dda0941db3
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 01:45:44,408 INFO  [Log] Closing the browser 
+2018-05-26 01:45:45,114 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:45:45,114 INFO  [Log] X 
+2018-05-26 01:45:45,114 INFO  [Log] X 
+2018-05-26 01:45:45,114 INFO  [Log] X 
+2018-05-26 01:45:45,114 INFO  [Log] X 
+2018-05-26 01:52:39,294 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:52:39,295 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:52:39,295 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 01:52:39,295 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:52:39,295 INFO  [Log] **************************************************************************************** 
+2018-05-26 01:52:39,297 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 01:52:39,298 INFO  [Log] Opening Browser 
+2018-05-26 01:52:41,724 INFO  [Log] Chrome browser started 
+2018-05-26 01:52:41,868 INFO  [Log] Navigating to URL 
+2018-05-26 01:52:42,927 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 01:52:42,968 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.52.72', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: b909b8747514b5f83c959810b9ed3ed8
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 01:52:43,011 INFO  [Log] Closing the browser 
+2018-05-26 01:52:43,736 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 01:52:43,736 INFO  [Log] X 
+2018-05-26 01:52:43,736 INFO  [Log] X 
+2018-05-26 01:52:43,736 INFO  [Log] X 
+2018-05-26 01:52:43,736 INFO  [Log] X 
+2018-05-26 02:40:38,469 INFO  [Log] **************************************************************************************** 
+2018-05-26 02:40:38,469 INFO  [Log] **************************************************************************************** 
+2018-05-26 02:40:38,469 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 02:40:38,469 INFO  [Log] **************************************************************************************** 
+2018-05-26 02:40:38,469 INFO  [Log] **************************************************************************************** 
+2018-05-26 02:40:38,516 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 02:40:38,532 INFO  [Log] Opening Browser 
+2018-05-26 02:41:04,972 INFO  [Log] Chrome browser started 
+2018-05-26 02:41:13,241 INFO  [Log] Navigating to URL 
+2018-05-26 02:41:20,679 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 02:41:21,138 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.52.72', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: ded122e8b924b21819ea1d9512b3338e
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 02:41:27,558 INFO  [Log] Closing the browser 
+2018-05-26 02:41:34,438 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 02:41:34,438 INFO  [Log] X 
+2018-05-26 02:41:34,438 INFO  [Log] X 
+2018-05-26 02:41:34,438 INFO  [Log] X 
+2018-05-26 02:41:34,438 INFO  [Log] X 
+2018-05-26 10:57:15,910 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:57:15,910 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:57:15,910 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 10:57:15,910 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:57:15,910 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:57:15,910 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 10:57:15,910 INFO  [Log] Opening Browser 
+2018-05-26 10:57:18,537 INFO  [Log] Chrome browser started 
+2018-05-26 10:57:18,678 INFO  [Log] Navigating to URL 
+2018-05-26 10:57:19,620 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 10:57:19,655 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: f5799cf06e0212c8cdd26729aeabd64a
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 10:57:19,710 INFO  [Log] Closing the browser 
+2018-05-26 10:57:20,413 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 10:57:20,413 INFO  [Log] X 
+2018-05-26 10:57:20,413 INFO  [Log] X 
+2018-05-26 10:57:20,413 INFO  [Log] X 
+2018-05-26 10:57:20,413 INFO  [Log] X 
+2018-05-26 10:58:19,130 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:19,130 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:19,130 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 10:58:19,130 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:19,130 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:19,130 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 10:58:19,130 INFO  [Log] Opening Browser 
+2018-05-26 10:58:21,477 INFO  [Log] Chrome browser started 
+2018-05-26 10:58:21,599 INFO  [Log] Navigating to URL 
+2018-05-26 10:58:22,500 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 10:58:22,533 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 3384e30f15642c057cb90a8f4f2da11c
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 10:58:22,580 INFO  [Log] Closing the browser 
+2018-05-26 10:58:23,298 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 10:58:23,298 INFO  [Log] X 
+2018-05-26 10:58:23,298 INFO  [Log] X 
+2018-05-26 10:58:23,298 INFO  [Log] X 
+2018-05-26 10:58:23,298 INFO  [Log] X 
+2018-05-26 10:58:53,828 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:53,828 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:53,828 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 10:58:53,828 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:53,828 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:58:53,828 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 10:58:53,828 INFO  [Log] Opening Browser 
+2018-05-26 10:58:56,188 INFO  [Log] Chrome browser started 
+2018-05-26 10:58:56,316 INFO  [Log] Navigating to URL 
+2018-05-26 10:58:58,166 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 10:58:58,197 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 556aa6527fc609907fbc2129367e5b1b
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 10:58:58,244 INFO  [Log] Closing the browser 
+2018-05-26 10:58:58,916 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 10:58:58,916 INFO  [Log] X 
+2018-05-26 10:58:58,916 INFO  [Log] X 
+2018-05-26 10:58:58,916 INFO  [Log] X 
+2018-05-26 10:58:58,916 INFO  [Log] X 
+2018-05-26 10:59:29,349 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:59:29,349 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:59:29,349 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 10:59:29,349 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:59:29,349 INFO  [Log] **************************************************************************************** 
+2018-05-26 10:59:29,349 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 10:59:29,349 INFO  [Log] Opening Browser 
+2018-05-26 10:59:31,779 INFO  [Log] Chrome browser started 
+2018-05-26 10:59:31,899 INFO  [Log] Navigating to URL 
+2018-05-26 10:59:32,916 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 10:59:32,954 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'x86', os.version: '10.0', java.version: '1.8.0_161'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 2861c207606e8300652e8625a8276956
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 10:59:32,998 INFO  [Log] Closing the browser 
+2018-05-26 10:59:33,687 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 10:59:33,687 INFO  [Log] X 
+2018-05-26 10:59:33,687 INFO  [Log] X 
+2018-05-26 10:59:33,687 INFO  [Log] X 
+2018-05-26 10:59:33,687 INFO  [Log] X 
+2018-05-26 11:03:52,135 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:03:52,135 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:03:52,135 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:03:52,136 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:03:52,136 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:03:52,137 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:03:52,138 INFO  [Log] Opening Browser 
+2018-05-26 11:03:54,458 INFO  [Log] Chrome browser started 
+2018-05-26 11:03:54,652 INFO  [Log] Navigating to URL 
+2018-05-26 11:03:55,567 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 11:03:55,610 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 312faa17c188b186fe18ec982ef0b8e6
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 11:03:55,692 INFO  [Log] Closing the browser 
+2018-05-26 11:03:56,453 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:03:56,453 INFO  [Log] X 
+2018-05-26 11:03:56,453 INFO  [Log] X 
+2018-05-26 11:03:56,453 INFO  [Log] X 
+2018-05-26 11:03:56,453 INFO  [Log] X 
+2018-05-26 11:04:45,412 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:04:45,412 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:04:45,412 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:04:45,412 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:04:45,413 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:04:45,414 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:04:45,416 INFO  [Log] Opening Browser 
+2018-05-26 11:04:47,749 INFO  [Log] Chrome browser started 
+2018-05-26 11:04:47,980 INFO  [Log] Navigating to URL 
+2018-05-26 11:04:48,951 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 11:04:49,003 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: bee2e144ec6e160fe0e0ca15869d968c
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 11:04:49,066 INFO  [Log] Closing the browser 
+2018-05-26 11:04:49,783 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:04:49,783 INFO  [Log] X 
+2018-05-26 11:04:49,783 INFO  [Log] X 
+2018-05-26 11:04:49,783 INFO  [Log] X 
+2018-05-26 11:04:49,783 INFO  [Log] X 
+2018-05-26 11:07:00,178 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:07:00,179 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:07:00,179 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:07:00,179 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:07:00,179 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:07:00,180 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:07:00,181 INFO  [Log] Opening Browser 
+2018-05-26 11:07:02,448 INFO  [Log] Chrome browser started 
+2018-05-26 11:07:02,641 INFO  [Log] Navigating to URL 
+2018-05-26 11:07:03,559 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 11:07:03,608 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 6283b954dbee7d9b3027c6b8b12e02b7
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 11:07:03,668 INFO  [Log] Closing the browser 
+2018-05-26 11:07:04,436 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:07:04,436 INFO  [Log] X 
+2018-05-26 11:07:04,436 INFO  [Log] X 
+2018-05-26 11:07:04,436 INFO  [Log] X 
+2018-05-26 11:07:04,437 INFO  [Log] X 
+2018-05-26 11:08:10,242 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:08:10,243 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:08:10,243 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:08:10,243 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:08:10,243 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:08:10,245 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:08:10,246 INFO  [Log] Opening Browser 
+2018-05-26 11:08:12,547 INFO  [Log] Chrome browser started 
+2018-05-26 11:08:12,739 INFO  [Log] Navigating to URL 
+2018-05-26 11:08:13,673 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 11:08:13,735 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 7b7eef1d964b5f0e4aa92bfdeb884ae7
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 11:08:13,797 INFO  [Log] Closing the browser 
+2018-05-26 11:08:14,529 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:08:14,529 INFO  [Log] X 
+2018-05-26 11:08:14,529 INFO  [Log] X 
+2018-05-26 11:08:14,529 INFO  [Log] X 
+2018-05-26 11:08:14,529 INFO  [Log] X 
+2018-05-26 11:09:58,406 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:09:58,406 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:09:58,406 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:09:58,406 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:09:58,406 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:09:58,408 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:09:58,410 INFO  [Log] Opening Browser 
+2018-05-26 11:10:00,807 INFO  [Log] Chrome browser started 
+2018-05-26 11:10:01,002 INFO  [Log] Navigating to URL 
+2018-05-26 11:10:01,935 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 11:10:01,979 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 7fec7ff444d50b85ca31d0d472d8faca
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 11:10:02,118 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:10:02,119 INFO  [Log] X 
+2018-05-26 11:10:02,119 INFO  [Log] X 
+2018-05-26 11:10:02,119 INFO  [Log] X 
+2018-05-26 11:10:02,119 INFO  [Log] X 
+2018-05-26 11:13:56,213 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:13:56,213 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:13:56,213 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:13:56,213 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:13:56,213 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:13:56,215 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:13:56,216 INFO  [Log] Opening Browser 
+2018-05-26 11:13:58,422 INFO  [Log] Chrome browser started 
+2018-05-26 11:13:58,610 INFO  [Log] Navigating to URL 
+2018-05-26 11:13:59,570 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2018-05-26 11:13:59,613 ERROR [Log] Not able to click --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 53f97e8042cceb01894b64eed8b4a53d
+*** Element info: {Using=css selector, value=.//*[@id='account']/a} 
+2018-05-26 11:13:59,725 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:13:59,725 INFO  [Log] X 
+2018-05-26 11:13:59,725 INFO  [Log] X 
+2018-05-26 11:13:59,725 INFO  [Log] X 
+2018-05-26 11:13:59,725 INFO  [Log] X 
+2018-05-26 11:23:35,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:35,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:35,532 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:23:35,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:35,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:35,532 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:23:35,547 INFO  [Log] Opening Browser 
+2018-05-26 11:23:35,547 INFO  [Log] Not able to open the Browser --- null 
+2018-05-26 11:23:35,735 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:23:35,735 INFO  [Log] X 
+2018-05-26 11:23:35,735 INFO  [Log] X 
+2018-05-26 11:23:35,735 INFO  [Log] X 
+2018-05-26 11:23:35,735 INFO  [Log] X 
+2018-05-26 11:23:58,599 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:58,599 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:58,599 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:23:58,599 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:58,599 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:23:58,599 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:23:58,599 INFO  [Log] Opening Browser 
+2018-05-26 11:23:58,599 INFO  [Log] Not able to open the Browser --- null 
+2018-05-26 11:23:58,771 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:23:58,771 INFO  [Log] X 
+2018-05-26 11:23:58,771 INFO  [Log] X 
+2018-05-26 11:23:58,771 INFO  [Log] X 
+2018-05-26 11:23:58,771 INFO  [Log] X 
+2018-05-26 11:24:51,623 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:24:51,623 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:24:51,623 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:24:51,623 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:24:51,623 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:24:51,623 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:24:51,623 INFO  [Log] Opening Browser 
+2018-05-26 11:24:53,852 INFO  [Log] Chrome browser started 
+2018-05-26 11:24:54,031 INFO  [Log] Navigating to URL 
+2018-05-26 11:24:55,181 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:24:55,228 ERROR [Log] Not able to Enter UserName --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 22341b5916f908659c1cab6feb14b84b
+*** Element info: {Using=css selector, value="input[name='userName']"} 
+2018-05-26 11:24:55,337 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:24:55,337 INFO  [Log] X 
+2018-05-26 11:24:55,337 INFO  [Log] X 
+2018-05-26 11:24:55,337 INFO  [Log] X 
+2018-05-26 11:24:55,337 INFO  [Log] X 
+2018-05-26 11:27:11,030 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:27:11,030 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:27:11,030 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:27:11,030 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:27:11,030 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:27:11,030 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:27:11,030 INFO  [Log] Opening Browser 
+2018-05-26 11:27:13,271 INFO  [Log] Chrome browser started 
+2018-05-26 11:27:13,455 INFO  [Log] Navigating to URL 
+2018-05-26 11:27:14,466 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:27:14,488 ERROR [Log] Not able to Enter UserName --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: dd41b2c66bc875a766e0b22055da283d
+*** Element info: {Using=css selector, value="input[name='userName']"} 
+2018-05-26 11:27:14,597 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:27:14,597 INFO  [Log] X 
+2018-05-26 11:27:14,597 INFO  [Log] X 
+2018-05-26 11:27:14,597 INFO  [Log] X 
+2018-05-26 11:27:14,597 INFO  [Log] X 
+2018-05-26 11:28:44,320 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:28:44,320 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:28:44,320 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:28:44,320 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:28:44,320 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:28:44,320 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:28:44,336 INFO  [Log] Opening Browser 
+2018-05-26 11:28:46,523 INFO  [Log] Chrome browser started 
+2018-05-26 11:28:46,708 INFO  [Log] Navigating to URL 
+2018-05-26 11:28:47,703 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:28:47,765 ERROR [Log] Not able to Enter UserName --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: feb8b944c3a3c2da81ffeb91171c7242
+*** Element info: {Using=css selector, value="input[name='userName']"} 
+2018-05-26 11:28:47,871 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:28:47,871 INFO  [Log] X 
+2018-05-26 11:28:47,871 INFO  [Log] X 
+2018-05-26 11:28:47,871 INFO  [Log] X 
+2018-05-26 11:28:47,871 INFO  [Log] X 
+2018-05-26 11:36:43,197 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:36:43,197 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:36:43,197 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:36:43,197 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:36:43,197 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:36:43,213 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:36:43,213 INFO  [Log] Opening Browser 
+2018-05-26 11:36:45,592 INFO  [Log] Chrome browser started 
+2018-05-26 11:36:45,800 INFO  [Log] Navigating to URL 
+2018-05-26 11:36:47,033 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:36:47,093 ERROR [Log] Not able to Enter UserName --- invalid selector: An invalid or illegal selector was specified
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/invalid_selector_exception.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 65cf0ee390b4504a2cb6ea44076e702c
+*** Element info: {Using=css selector, value="input[name='userName']"} 
+2018-05-26 11:36:47,230 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:36:47,230 INFO  [Log] X 
+2018-05-26 11:36:47,230 INFO  [Log] X 
+2018-05-26 11:36:47,230 INFO  [Log] X 
+2018-05-26 11:36:47,230 INFO  [Log] X 
+2018-05-26 11:44:07,765 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:44:07,765 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:44:07,765 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:44:07,765 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:44:07,765 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:44:07,765 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:44:07,765 INFO  [Log] Opening Browser 
+2018-05-26 11:44:10,169 INFO  [Log] Chrome browser started 
+2018-05-26 11:44:10,392 INFO  [Log] Navigating to URL 
+2018-05-26 11:44:11,705 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:44:11,909 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 11:44:12,043 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 11:44:12,482 INFO  [Log] Wait for 5 seconds 
+2018-05-26 11:44:17,553 INFO  [Log] Clicking on Webelement btn_LogOut 
+2018-05-26 11:44:27,670 ERROR [Log] Not able to click --- no such element: Unable to locate element: {"method":"name","selector":""table>tbody>tr>.mouseOut a:nth-child(1)""}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.51.234', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 5330865fc9b0e0baf59aa48ad09fe7ba
+*** Element info: {Using=name, value="table>tbody>tr>.mouseOut a:nth-child(1)"} 
+2018-05-26 11:44:27,763 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:44:27,763 INFO  [Log] X 
+2018-05-26 11:44:27,763 INFO  [Log] X 
+2018-05-26 11:44:27,763 INFO  [Log] X 
+2018-05-26 11:44:27,763 INFO  [Log] X 
+2018-05-26 11:46:20,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:46:20,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:46:20,532 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:46:20,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:46:20,532 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:46:20,532 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:46:20,532 INFO  [Log] Opening Browser 
+2018-05-26 11:46:22,933 INFO  [Log] Chrome browser started 
+2018-05-26 11:46:23,148 INFO  [Log] Navigating to URL 
+2018-05-26 11:46:24,245 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:46:24,409 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 11:46:24,549 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 11:46:24,954 INFO  [Log] Wait for 5 seconds 
+2018-05-26 11:46:30,169 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:46:30,169 INFO  [Log] X 
+2018-05-26 11:46:30,169 INFO  [Log] X 
+2018-05-26 11:46:30,169 INFO  [Log] X 
+2018-05-26 11:46:30,169 INFO  [Log] X 
+2018-05-26 11:47:16,916 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:16,916 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:16,916 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:47:16,916 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:16,916 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:16,916 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:47:16,916 INFO  [Log] Opening Browser 
+2018-05-26 11:47:19,306 INFO  [Log] Chrome browser started 
+2018-05-26 11:47:19,318 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:47:19,318 INFO  [Log] X 
+2018-05-26 11:47:19,318 INFO  [Log] X 
+2018-05-26 11:47:19,318 INFO  [Log] X 
+2018-05-26 11:47:19,318 INFO  [Log] X 
+2018-05-26 11:47:45,529 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:45,529 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:45,529 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:47:45,529 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:45,529 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:47:45,529 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:47:45,529 INFO  [Log] Opening Browser 
+2018-05-26 11:47:48,020 INFO  [Log] Chrome browser started 
+2018-05-26 11:47:48,212 INFO  [Log] Navigating to URL 
+2018-05-26 11:47:49,266 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:47:49,442 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 11:47:49,642 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 11:47:50,086 INFO  [Log] Wait for 5 seconds 
+2018-05-26 11:47:55,219 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:47:55,219 INFO  [Log] X 
+2018-05-26 11:47:55,219 INFO  [Log] X 
+2018-05-26 11:47:55,219 INFO  [Log] X 
+2018-05-26 11:47:55,219 INFO  [Log] X 
+2018-05-26 11:49:17,540 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:49:17,540 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:49:17,540 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:49:17,540 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:49:17,540 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:49:17,540 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:49:17,540 INFO  [Log] Opening Browser 
+2018-05-26 11:49:19,938 INFO  [Log] Chrome browser started 
+2018-05-26 11:49:20,149 INFO  [Log] Navigating to URL 
+2018-05-26 11:49:21,447 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:49:21,677 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 11:49:21,806 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 11:49:22,210 INFO  [Log] Wait for 5 seconds 
+2018-05-26 11:49:27,261 INFO  [Log] Closing the browser 
+2018-05-26 11:49:28,126 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:49:28,126 INFO  [Log] X 
+2018-05-26 11:49:28,126 INFO  [Log] X 
+2018-05-26 11:49:28,126 INFO  [Log] X 
+2018-05-26 11:49:28,126 INFO  [Log] X 
+2018-05-26 11:53:30,915 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:53:30,915 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:53:30,915 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 11:53:30,915 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:53:30,915 INFO  [Log] **************************************************************************************** 
+2018-05-26 11:53:30,946 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 11:53:30,962 INFO  [Log] Opening Browser 
+2018-05-26 11:53:53,819 INFO  [Log] Chrome browser started 
+2018-05-26 11:54:03,032 INFO  [Log] Navigating to URL 
+2018-05-26 11:54:11,687 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 11:54:19,405 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 11:54:26,865 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 11:54:34,764 INFO  [Log] Wait for 5 seconds 
+2018-05-26 11:54:47,274 INFO  [Log] Closing the browser 
+2018-05-26 11:55:03,255 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 11:55:03,255 INFO  [Log] X 
+2018-05-26 11:55:03,255 INFO  [Log] X 
+2018-05-26 11:55:03,255 INFO  [Log] X 
+2018-05-26 11:55:03,255 INFO  [Log] X 
+2018-05-26 12:07:02,265 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:07:02,265 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:07:02,265 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:07:02,265 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:07:02,265 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:07:02,265 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:07:02,269 INFO  [Log] Opening Browser 
+2018-05-26 12:07:04,702 INFO  [Log] Chrome browser started 
+2018-05-26 12:07:04,922 INFO  [Log] Navigating to URL 
+2018-05-26 12:07:06,114 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:07:06,274 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:07:06,430 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:07:06,894 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:07:11,969 INFO  [Log] Closing the browser 
+2018-05-26 12:07:12,853 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:07:12,853 INFO  [Log] X 
+2018-05-26 12:07:12,853 INFO  [Log] X 
+2018-05-26 12:07:12,853 INFO  [Log] X 
+2018-05-26 12:07:12,853 INFO  [Log] X 

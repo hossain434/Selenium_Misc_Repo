@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;BaseTest.java&apos; to &apos;Docker_Sel_Simple_Script-master/src/main/java/seleniunInDocker&apos;&#x0D;&#x0A;- Original project: &apos;Elasticsearch_Kibana_On_Docker&apos;&#x0D;&#x0A;- Destination element: &apos;Docker_Sel_Simple_Script-master/src/main/java/seleniunInDocker&apos;&#x0D;&#x0A;- Original element: &apos;main.java.elasticsearch_Kibana_On_Docker1.BaseTest.java&apos;" description="Copy compilation unit" destination="=Docker_Sel_Simple_Script-master/src\/main\/java&lt;seleniunInDocker" element1="/src&lt;main.java.elasticsearch_Kibana_On_Docker1{BaseTest.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1533713872820" units="1" version="1.0"/>
+</session>

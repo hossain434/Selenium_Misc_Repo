@@ -1,0 +1,63 @@
+package webTours;
+
+import org.openqa.selenium.Platform;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.remote.DesiredCapabilities;
+import org.openqa.selenium.remote.RemoteWebDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.Test;
+
+import webTours.LoginPage;
+
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.AfterClass;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+
+public class TestRunner {
+    private WebDriver driver;
+   // String nodeURL;
+
+    @BeforeClass
+    public void beforeClass() throws MalformedURLException {
+
+        DesiredCapabilities dc = DesiredCapabilities.chrome();
+       // dc.setPlatform(Platform.LINUX);
+
+
+        RemoteWebDriver driver=new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), dc);
+        driver.navigate().to("http://newtours.demoaut.com/mercurywelcome.php");
+
+
+    }
+
+    @Test
+    public void LoginTest() throws InterruptedException {
+        // Initialize Login Page
+
+        LoginPage loginPage = PageFactory.initElements(driver, LoginPage.class);
+        // Enter user name
+        loginPage.EnterUserName("arf");
+        // Enter Password
+        loginPage.EnterPassword("arf");
+        // Click Login Button
+        loginPage.ClickLoginButton();
+    }
+
+    @Test
+    public void LogoutTest() {
+        // Initialize Login Page
+        LoginPage loginPage = PageFactory.initElements(driver, LoginPage.class);
+        // Click Logout button
+        loginPage.ClickLogoutButton();
+    }
+
+    @AfterClass
+    public void afterClass() {
+        // Close the browser
+        driver.close();
+        driver.quit();
+    }
+
+}

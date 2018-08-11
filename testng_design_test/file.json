@@ -1,0 +1,14 @@
+{
+   "firstname":"testautomation",
+   "lastname":"guru",
+   "dob":"01/01/2000",
+   "email":"noreply@gmail.com",
+   "address":"123 non main st",
+   "cc":{
+      "number":"4444-4444-4444-4444",
+      "billing":"123 non main st"
+   },
+   "product":{
+      "searchCriteria":"criteria"
+   }
+}

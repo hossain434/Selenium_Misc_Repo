@@ -1,0 +1,141 @@
+2018-05-27 15:42:03,157 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:03,157 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:03,157 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 15:42:03,157 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:03,157 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:03,157 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 15:42:03,157 INFO  [Log] Opening Browser 
+2018-05-27 15:42:05,633 INFO  [Log] Chrome browser started 
+2018-05-27 15:42:05,645 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 15:42:05,645 INFO  [Log] X 
+2018-05-27 15:42:05,645 INFO  [Log] X 
+2018-05-27 15:42:05,645 INFO  [Log] X 
+2018-05-27 15:42:05,645 INFO  [Log] X 
+2018-05-27 15:42:46,901 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:46,901 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:46,901 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 15:42:46,901 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:46,901 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:42:46,905 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 15:42:46,905 INFO  [Log] Opening Browser 
+2018-05-27 15:42:49,261 INFO  [Log] Chrome browser started 
+2018-05-27 15:42:49,476 INFO  [Log] Navigating to URL 
+2018-05-27 15:42:50,641 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 15:43:00,750 ERROR [Log] Not able to Enter UserName --- no such element: Unable to locate element: {"method":"id","selector":"userName"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.53.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 85bdeabdd6873e5b0df23001dde76e6c
+*** Element info: {Using=id, value=userName} 
+2018-05-27 15:43:00,813 INFO  [Log] Closing the browser 
+2018-05-27 15:43:01,705 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 15:43:01,705 INFO  [Log] X 
+2018-05-27 15:43:01,705 INFO  [Log] X 
+2018-05-27 15:43:01,705 INFO  [Log] X 
+2018-05-27 15:43:01,705 INFO  [Log] X 
+2018-05-27 15:56:54,630 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:56:54,630 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:56:54,630 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 15:56:54,630 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:56:54,630 INFO  [Log] **************************************************************************************** 
+2018-05-27 15:56:54,646 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 15:56:54,646 INFO  [Log] Opening Browser 
+2018-05-27 15:56:56,959 INFO  [Log] Chrome browser started 
+2018-05-27 15:56:57,195 INFO  [Log] Navigating to URL 
+2018-05-27 15:56:58,364 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 15:57:08,512 ERROR [Log] Not able to Enter UserName --- no such element: Unable to locate element: {"method":"id","selector":"userName"}
+  (Session info: chrome=66.0.3359.139)
+  (Driver info: chromedriver=2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb),platform=Windows NT 10.0.10586 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.12.0', revision: '7c6e0b3', time: '2018-05-08T14:04:26.12Z'
+System info: host: 'LN0C5772E6454B', ip: '10.194.53.27', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.38.552522 (437e6fbedfa876..., userDataDir: C:\Users\ahoss1\AppData\Loc...}, cssSelectorsEnabled: true, databaseEnabled: false, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 66.0.3359.139, webStorageEnabled: true}
+Session ID: 683bc42a08f855dfe1b45189f6f5ca9a
+*** Element info: {Using=id, value=userName} 
+2018-05-27 15:57:08,574 INFO  [Log] Closing the browser 
+2018-05-27 15:57:09,403 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 15:57:09,403 INFO  [Log] X 
+2018-05-27 15:57:09,403 INFO  [Log] X 
+2018-05-27 15:57:09,403 INFO  [Log] X 
+2018-05-27 15:57:09,403 INFO  [Log] X 
+2018-05-27 16:01:11,446 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:01:11,446 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:01:11,446 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 16:01:11,446 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:01:11,446 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:01:11,446 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 16:01:11,446 INFO  [Log] Opening Browser 
+2018-05-27 16:01:13,883 INFO  [Log] Chrome browser started 
+2018-05-27 16:01:14,096 INFO  [Log] Navigating to URL 
+2018-05-27 16:01:15,357 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 16:01:24,685 ERROR [Log] Not able to Enter UserName --- null 
+2018-05-27 16:01:24,857 INFO  [Log] Closing the browser 
+2018-05-27 16:01:25,666 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 16:01:25,666 INFO  [Log] X 
+2018-05-27 16:01:25,666 INFO  [Log] X 
+2018-05-27 16:01:25,666 INFO  [Log] X 
+2018-05-27 16:01:25,666 INFO  [Log] X 
+2018-05-27 16:04:01,381 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:04:01,381 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:04:01,381 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 16:04:01,381 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:04:01,381 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:04:01,381 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 16:04:01,397 INFO  [Log] Opening Browser 
+2018-05-27 16:04:03,823 INFO  [Log] Chrome browser started 
+2018-05-27 16:04:04,055 INFO  [Log] Navigating to URL 
+2018-05-27 16:04:05,154 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 16:04:05,340 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 16:04:05,574 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 16:04:05,919 INFO  [Log] Wait for 5 seconds 
+2018-05-27 16:04:07,978 INFO  [Log] Closing the browser 
+2018-05-27 16:04:08,962 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 16:04:08,962 INFO  [Log] X 
+2018-05-27 16:04:08,962 INFO  [Log] X 
+2018-05-27 16:04:08,962 INFO  [Log] X 
+2018-05-27 16:04:08,962 INFO  [Log] X 
+2018-05-27 16:05:09,574 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:05:09,574 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:05:09,574 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 16:05:09,574 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:05:09,574 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:05:09,589 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 16:05:09,589 INFO  [Log] Opening Browser 
+2018-05-27 16:05:12,010 INFO  [Log] Chrome browser started 
+2018-05-27 16:05:12,222 INFO  [Log] Navigating to URL 
+2018-05-27 16:05:13,441 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 16:05:13,720 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 16:05:13,876 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 16:05:14,283 INFO  [Log] Wait for 5 seconds 
+2018-05-27 16:05:16,343 INFO  [Log] Closing the browser 
+2018-05-27 16:05:17,265 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 16:05:17,265 INFO  [Log] X 
+2018-05-27 16:05:17,265 INFO  [Log] X 
+2018-05-27 16:05:17,265 INFO  [Log] X 
+2018-05-27 16:05:17,265 INFO  [Log] X 
+2018-05-27 16:08:23,930 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:08:23,930 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:08:23,930 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 16:08:23,930 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:08:23,930 INFO  [Log] **************************************************************************************** 
+2018-05-27 16:08:23,930 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 16:08:23,930 INFO  [Log] Opening Browser 
+2018-05-27 16:08:26,361 INFO  [Log] Chrome browser started 
+2018-05-27 16:08:26,572 INFO  [Log] Navigating to URL 
+2018-05-27 16:08:27,725 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 16:08:27,965 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 16:08:28,133 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 16:08:28,650 INFO  [Log] Wait for 5 seconds 
+2018-05-27 16:08:30,705 INFO  [Log] Closing the browser 
+2018-05-27 16:08:31,680 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 16:08:31,680 INFO  [Log] X 
+2018-05-27 16:08:31,680 INFO  [Log] X 
+2018-05-27 16:08:31,680 INFO  [Log] X 
+2018-05-27 16:08:31,680 INFO  [Log] X 

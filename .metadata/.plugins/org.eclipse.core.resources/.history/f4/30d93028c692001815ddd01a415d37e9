@@ -1,0 +1,28 @@
+package Handle_Multiple_Browsers_Window;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class MultipleBrowserTest {
+	private  WebDriverWait wait;
+		// Define Login Button
+		@FindBy(how = How.ID, using = "button1")
+		private WebElement button;
+		
+		   public MultipleBrowserTest(final WebDriver driver) {
+		        PageFactory.initElements(driver, this);
+		        this.wait = new WebDriverWait(driver, 30);
+		    }
+		// Define Login Button Click Method
+		public void ClickLoginButton() {
+			wait.until(ExpectedConditions.elementToBeClickable(this.button));
+		
+			button.click();
+		}
+
+}

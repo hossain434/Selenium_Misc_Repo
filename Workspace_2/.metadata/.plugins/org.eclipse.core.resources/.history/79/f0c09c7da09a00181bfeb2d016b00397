@@ -1,0 +1,31 @@
+package DownloadUploadDocker;
+
+import java.nio.file.Path;
+import java.nio.file.Paths;
+import java.util.concurrent.TimeUnit;
+import org.awaitility.Awaitility;
+import org.testng.Assert;
+import org.testng.annotations.Test;
+import DownloadUploadDocker.HerokuAppDownloadPage;
+
+public class DownloadTest{
+	
+@Test
+public void downloadTest() {
+	HerokuAppDownloadPage download = new HerokuAppDownloadPage();
+	download.goTo();
+	download.downloadFile();
+
+    Path path = Paths.get("/home/vins/Downloads/some-file.txt");
+
+    //this will wait until the file download is complete.
+    Awaitility.await()
+        .atMost(1, TimeUnit.MINUTES)
+        .until(() -> {
+            return path.toFile().exists();
+        });
+
+
+    Assert.assertTrue(path.toFile().exists());
+}
+}

@@ -1,0 +1,51 @@
+package webTours;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.annotations.Test;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.AfterClass;
+import java.net.MalformedURLException;
+
+public class TestRunner extends BaseTest {
+    private WebDriver driver;
+   // String nodeURL;
+    @BeforeTest
+    public void setUp() throws MalformedURLException {
+       super.setUp();
+
+    }
+  
+
+    @Test
+    public void LoginTest() throws InterruptedException {
+        // Initialize Login Page
+
+        LoginPage loginPage = PageFactory.initElements(driver, LoginPage.class);
+        loginPage.goTo();
+        // Enter user name
+        loginPage.EnterUserName("arf");
+        // Enter Password
+        loginPage.EnterPassword("arf");
+        // Click Login Button
+        loginPage.ClickLoginButton();
+    }
+
+    @Test
+    public void LogoutTest() {
+        // Initialize Login Page
+        LoginPage loginPage = PageFactory.initElements(driver, LoginPage.class);
+        // Click Logout button
+        loginPage.ClickLogoutButton();
+    }
+
+    @AfterClass
+    public void afterClass() throws InterruptedException {
+    	BaseTest BaseTest = PageFactory.initElements(driver, BaseTest.class);
+        // Close the browser
+       // driver.close();
+        //driver.quit();
+    	BaseTest.tearDown();
+    }
+
+}

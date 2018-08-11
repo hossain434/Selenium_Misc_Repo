@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14385" started-at="2018-07-28T19:32:43Z" finished-at="2018-07-28T19:32:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14385" started-at="2018-07-28T19:32:43Z" finished-at="2018-07-28T19:32:57Z">
+      <class name="Switch_Browsers_Window.faketest">
+        <test-method status="PASS" signature="test()[pri:0, instance:Switch_Browsers_Window.faketest@10ab905]" name="test" duration-ms="14363" started-at="2018-07-28T12:32:43Z" finished-at="2018-07-28T12:32:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- Switch_Browsers_Window.faketest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

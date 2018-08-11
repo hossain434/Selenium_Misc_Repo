@@ -1,0 +1,82 @@
+2018-05-27 17:13:50,839 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:50,839 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:50,839 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 17:13:50,839 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:50,839 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:50,855 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 17:13:50,855 INFO  [Log] Opening Browser 
+2018-05-27 17:13:53,315 INFO  [Log] Chrome browser started 
+2018-05-27 17:13:53,510 INFO  [Log] Navigating to URL 
+2018-05-27 17:13:54,779 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 17:13:54,939 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 17:13:55,097 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 17:13:55,498 INFO  [Log] Wait for 5 seconds 
+2018-05-27 17:13:57,536 INFO  [Log] Closing the browser 
+2018-05-27 17:13:58,380 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 17:13:58,380 INFO  [Log] X 
+2018-05-27 17:13:58,380 INFO  [Log] X 
+2018-05-27 17:13:58,380 INFO  [Log] X 
+2018-05-27 17:13:58,380 INFO  [Log] X 
+2018-05-27 17:13:58,380 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:58,380 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:58,380 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 17:13:58,380 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:58,380 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:13:58,380 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 17:13:58,380 INFO  [Log] Opening Browser 
+2018-05-27 17:14:00,041 INFO  [Log] Chrome browser started 
+2018-05-27 17:14:00,118 INFO  [Log] Navigating to URL 
+2018-05-27 17:14:01,291 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 17:14:01,433 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 17:14:01,583 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 17:14:01,985 INFO  [Log] Wait for 5 seconds 
+2018-05-27 17:14:04,003 INFO  [Log] Closing the browser 
+2018-05-27 17:14:04,723 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 17:14:04,723 INFO  [Log] X 
+2018-05-27 17:14:04,723 INFO  [Log] X 
+2018-05-27 17:14:04,723 INFO  [Log] X 
+2018-05-27 17:14:04,723 INFO  [Log] X 
+2018-05-27 17:49:52,430 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:49:52,430 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:49:52,430 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 17:49:52,430 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:49:52,430 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:49:52,430 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 17:49:52,430 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 17:49:52,445 INFO  [Log] Opening Browser 
+2018-05-27 17:49:54,722 INFO  [Log] Chrome browser started 
+2018-05-27 17:49:54,946 INFO  [Log] Navigating to URL 
+2018-05-27 17:49:56,156 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 17:49:56,344 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 17:49:56,486 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 17:49:56,994 INFO  [Log] Wait for 5 seconds 
+2018-05-27 17:49:59,130 INFO  [Log] Closing the browser 
+2018-05-27 17:49:59,990 INFO  [Log] Opening Browser 
+2018-05-27 17:50:01,733 INFO  [Log] Chrome browser started 
+2018-05-27 17:50:01,846 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 17:50:01,846 INFO  [Log] X 
+2018-05-27 17:50:01,846 INFO  [Log] X 
+2018-05-27 17:50:01,846 INFO  [Log] X 
+2018-05-27 17:50:01,846 INFO  [Log] X 
+2018-05-27 17:50:01,846 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:50:01,846 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:50:01,846 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_02       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-27 17:50:01,846 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:50:01,846 INFO  [Log] **************************************************************************************** 
+2018-05-27 17:50:01,850 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 17:50:01,850 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-27 17:50:01,850 INFO  [Log] Opening Browser 
+2018-05-27 17:50:03,675 INFO  [Log] Chrome browser started 
+2018-05-27 17:50:03,724 INFO  [Log] Navigating to URL 
+2018-05-27 17:50:05,066 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-27 17:50:05,243 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-27 17:50:05,423 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-27 17:50:05,893 INFO  [Log] Wait for 5 seconds 
+2018-05-27 17:50:07,981 INFO  [Log] Closing the browser 
+2018-05-27 17:50:08,768 INFO  [Log] Opening Browser 
+2018-05-27 17:50:10,503 INFO  [Log] Chrome browser started 
+2018-05-27 17:50:10,580 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-27 17:50:10,580 INFO  [Log] X 
+2018-05-27 17:50:10,580 INFO  [Log] X 
+2018-05-27 17:50:10,580 INFO  [Log] X 
+2018-05-27 17:50:10,580 INFO  [Log] X 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite1" verbose="10" parallel="false" preserve-order="true">
+<!--  Specify the browsers -->
+  <parameter name="browserType" value="chrome"/> 
+  <!-- Specify the execution environment RemoteBuild / LocalBuild -->
+  <parameter name="buildType" value="RemoteBuild"/> 
+  <!-- Specify the execution URL as either Dev , Staging -->
+  <parameter name="executionUrl" value="Dev"/>  
+  <test verbose="2" thread-count="0" name="ChimpUISmokeTestSuiteOne"  >
+    <groups>
+  	<run>
+  		<include name="Main"/>
+  		<include name="Smoke"/>
+  		<include name="Regression"/>
+  	</run>
+  	</groups>  
+  <classes>
+    <class name="chimpPackage.ChimpBaseForSequentialExecution"/>
+    <class name="chimpPackage.ChimpLogin"/>
+    <class name="chimpPackage.ChimpLogout"/> 
+  </classes>
+  </test> <!-- ChimpUI -->
+</suite> <!-- Suite -->

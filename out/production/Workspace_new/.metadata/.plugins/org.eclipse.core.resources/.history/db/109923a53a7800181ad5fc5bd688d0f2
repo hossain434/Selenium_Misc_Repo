@@ -1,0 +1,15 @@
+FROM openjdk:8-jre-slim
+
+# Add the project jar & copy dependencies
+ADD  target/container-testing.jar /usr/share/tag/container-testing.jar
+
+# Add the suite xmls
+ADD testrunner.xml /usr/share/tag/testrunner.xml
+
+# Command line to execute the test
+# Expects below ennvironment variables
+# BROWSER = chrome / firefox
+# MODULE  = order-module / search-module
+# GRIDHOST = selenium hub hostname / ipaddress
+
+ENTRYPOINT /usr/bin/java -cp /usr/share/tag/container-testing.jar:/usr/share/tag/libs/* -DseleniumHubHost=$SELENIUM_HUB -Dbrowser=$BROWSER org.testng.TestNG /usr/share/tag/$MODULE

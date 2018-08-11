@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/POMExample/POMExample.iml" filepath="$PROJECT_DIR$/POMExample/POMExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workspace_new.iml" filepath="$PROJECT_DIR$/Workspace_new.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker-selenium-test-master/docker-selenium-test-master.iml" filepath="$PROJECT_DIR$/docker-selenium-test-master/docker-selenium-test-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factoryDesign/factoryDesign.iml" filepath="$PROJECT_DIR$/factoryDesign/factoryDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/docker/src/main/main.iml" filepath="$PROJECT_DIR$/docker/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manageMultipleWindow/src/main/main1.iml" filepath="$PROJECT_DIR$/manageMultipleWindow/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Keyword_Lamda/src/main/main2.iml" filepath="$PROJECT_DIR$/Keyword_Lamda/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PageObjectsDesign/src/main/main3.iml" filepath="$PROJECT_DIR$/PageObjectsDesign/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sel_Keyword/keyworddriven/src/main/main4.iml" filepath="$PROJECT_DIR$/Sel_Keyword/keyworddriven/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReportPDF/src/main/main5.iml" filepath="$PROJECT_DIR$/ReportPDF/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sankar_frame/sankar_frame/src/main/main6.iml" filepath="$PROJECT_DIR$/sankar_frame/sankar_frame/src/main/main6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Keywordguru/KeywordDrivenFramework/src/main/main7.iml" filepath="$PROJECT_DIR$/Keywordguru/KeywordDrivenFramework/src/main/main7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sel_Keyword/keyworddriven/src/test/test.iml" filepath="$PROJECT_DIR$/Sel_Keyword/keyworddriven/src/test/test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Keyword_Lamda/src/test/test1.iml" filepath="$PROJECT_DIR$/Keyword_Lamda/src/test/test1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manageMultipleWindow/src/test/test2.iml" filepath="$PROJECT_DIR$/manageMultipleWindow/src/test/test2.iml" />
+    </modules>
+  </component>
+</project>

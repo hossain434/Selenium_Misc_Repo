@@ -1,0 +1,38 @@
+package seleniunInDocker;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.How;
+
+public class LoginPage {
+
+	//Define User name Field
+	@FindBy(how=How.NAME, using="userName")
+	private WebElement username;
+	
+	//Define Password Field
+	@FindBy(how=How.NAME, using="password")
+	private WebElement password;
+	
+	//Define Login Button
+	@FindBy(how=How.NAME, using="login")
+	private WebElement login;
+	
+	//Define User name Enter Method
+	public void EnterUserName(String usernametext)
+	{
+		username.sendKeys(usernametext);
+	}
+	
+	//Define Password Enter Method
+		public void EnterPassword(String passwordtext)
+		{
+			password.sendKeys(passwordtext);
+		}
+		
+	//Define Login Button Click Method
+		public void ClickLoginButton()
+		{
+			login.click();
+		}
+	
+}

@@ -1,0 +1,125 @@
+2018-05-28 19:58:18,111 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-28 20:04:56,001 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sankar_frame:sankar_frame:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\pom.xml.
+2018-05-28 20:04:56,634 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sankar_frame/src
+2018-05-28 20:04:56,634 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /sankar_frame/src overlaps with sources folder /sankar_frame/src
+2018-05-28 20:04:56,649 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sankar_frame/src/test/java because it overlaps with /sankar_frame/src
+2018-05-28 20:04:56,996 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-28 20:04:57,463 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sankar_frame:sankar_frame:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\pom.xml.
+2018-05-28 20:04:58,166 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sankar_frame/src
+2018-05-28 20:04:58,166 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /sankar_frame/src overlaps with sources folder /sankar_frame/src
+2018-05-28 20:04:58,182 [Worker-3] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sankar_frame/src/test/java because it overlaps with /sankar_frame/src
+2018-05-28 20:04:58,432 [Worker-3] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-28 20:04:58,932 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:04:58,948 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 29 resources
+2018-05-28 20:04:59,073 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:04:59,073 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 20:05:35,633 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\pom.xml.
+2018-05-28 20:05:36,368 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:05:36,368 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 20:05:36,368 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:05:36,368 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 20:05:38,119 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:05:38,119 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 20:05:38,119 [Worker-3] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:05:38,119 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 20:07:15,902 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:07:15,902 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 20:07:15,902 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:07:15,902 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 20:07:46,229 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:07:46,229 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 20:07:46,229 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:07:46,229 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 20:11:00,531 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-28 20:11:19,978 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame
+2018-05-28 20:11:19,979 [Worker-5] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-28 20:11:22,425 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:11:22,426 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 20:11:22,429 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:11:22,429 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 20:11:29,251 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame
+2018-05-28 20:11:29,252 [Worker-13] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-28 20:11:31,842 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:11:31,843 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 20:11:31,845 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:11:31,846 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 20:12:09,746 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:12:09,747 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 20:12:09,750 [Worker-11] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 20:12:09,751 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:28:54,731 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-28 22:28:55,483 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\pom.xml.
+2018-05-28 22:28:56,314 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sankar_frame/src/main/java because it overlaps with /sankar_frame/src
+2018-05-28 22:28:56,314 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /sankar_frame/src/test/java because it overlaps with /sankar_frame/src
+2018-05-28 22:28:56,734 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2018-05-28 22:28:57,143 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:28:57,144 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:28:57,147 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:28:57,148 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:29:09,218 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame
+2018-05-28 22:29:09,218 [Worker-23] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-28 22:29:12,140 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:29:12,144 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:29:12,144 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:29:12,144 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:29:42,506 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:29:42,510 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:29:42,514 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:29:42,518 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:29:48,443 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame
+2018-05-28 22:29:48,443 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-28 22:29:51,371 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:29:51,371 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:29:51,379 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:29:51,383 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:30:25,542 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-28 22:30:26,126 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\pom.xml.
+2018-05-28 22:30:26,690 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sankar_frame/src/main/java
+2018-05-28 22:30:26,690 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /sankar_frame/src/test/java
+2018-05-28 22:30:27,078 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-28 22:30:28,247 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:30:28,247 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:30:28,251 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:30:28,251 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:30:30,982 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame
+2018-05-28 22:30:30,982 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-28 22:30:35,001 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:30:35,001 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:30:35,005 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:30:35,005 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:31:45,041 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:31:45,045 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:31:45,045 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:31:45,049 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:33:55,701 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:33:55,701 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:33:55,705 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:33:55,705 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:37:01,349 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:37:01,349 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:37:01,353 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:37:01,353 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:40:26,065 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:40:26,069 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:40:26,069 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:40:26,073 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:40:56,273 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:40:56,273 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:40:56,277 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:40:56,277 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:42:00,362 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:42:00,362 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:42:00,366 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:42:00,370 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:53:43,021 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:53:43,021 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:53:43,025 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:53:43,025 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 22:56:18,111 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:56:18,111 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 22:56:18,111 [Worker-8] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 22:56:18,111 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources
+2018-05-28 23:13:36,903 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 23:13:36,903 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\main\resources
+2018-05-28 23:13:36,903 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-28 23:13:36,903 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\sankar_frame\sankar_frame\src\test\resources

@@ -1,0 +1,5 @@
+package seleniunInDocker;
+
+public class LoginPage {
+
+}

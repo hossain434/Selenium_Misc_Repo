@@ -1,0 +1,603 @@
+2018-05-25 23:42:42,872 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-25 23:53:52,107 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml
+2018-05-25 23:53:53,221 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-25 23:53:53,527 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-25 23:53:53,535 [Worker-7] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-25 23:53:54,138 [Worker-7] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-05-25 23:53:54,643 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:53:54,643 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-25 23:53:54,645 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:53:54,645 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-25 23:57:05,345 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:57:05,346 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-25 23:57:05,348 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:57:05,348 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-25 23:57:17,673 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:57:17,673 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-25 23:57:17,675 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:57:17,675 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-25 23:58:33,423 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:58:33,423 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-25 23:58:33,426 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-05-25 23:58:33,426 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:02:19,719 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: sankar_frame2:sankar_frame2:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 00:02:20,694 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:02:20,695 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:02:20,698 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:02:20,699 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:02:22,005 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:02:22,007 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:02:22,009 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:02:22,010 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:02:53,812 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 00:02:54,479 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:02:54,480 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:02:54,483 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:02:54,484 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:03:19,669 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-26 00:03:20,142 [Worker-17] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 00:03:20,633 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-26 00:03:20,636 [Worker-17] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-26 00:03:20,905 [Worker-17] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-26 00:03:21,206 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:03:21,208 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:03:21,210 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:03:21,212 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:03:36,959 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 00:03:36,960 [Worker-21] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 00:03:39,094 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:03:39,097 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:03:39,103 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:03:39,106 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:04:03,292 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 00:04:03,293 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 00:04:06,109 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:04:06,112 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:04:06,118 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:04:06,121 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:09:58,805 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:09:58,808 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:09:58,815 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:09:58,823 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:10:07,490 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 00:10:07,490 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 00:10:10,182 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:10:10,185 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:10:10,191 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:10:10,194 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:10:59,204 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-26 00:10:59,782 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 00:11:00,505 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-26 00:11:00,507 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-26 00:11:00,756 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-26 00:11:01,188 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:11:01,189 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:11:01,192 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:11:01,193 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:11:04,794 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 00:11:04,794 [Worker-2] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 00:11:07,421 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:11:07,422 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:11:07,424 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:11:07,425 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:12:47,776 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:12:47,778 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:12:47,782 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:12:47,784 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:13:01,777 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-26 00:13:02,246 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 00:13:02,740 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-26 00:13:02,741 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-26 00:13:02,954 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-26 00:13:03,304 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:13:03,305 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:13:03,307 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:13:03,308 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:13:08,129 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 00:13:08,129 [Worker-24] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 00:13:13,202 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:13:13,205 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:13:13,211 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:13:13,214 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:13:48,315 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:13:48,316 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:13:48,318 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:13:48,319 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:16:00,524 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:16:00,528 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:16:00,536 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:16:00,539 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:49:21,480 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:49:21,480 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:49:21,480 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:49:21,480 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 00:54:16,358 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:54:16,358 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 00:54:16,374 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 00:54:16,374 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:03:36,020 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:03:36,020 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:03:36,020 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:03:36,020 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:05:32,367 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:05:32,367 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:05:32,367 [Worker-28] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:05:32,367 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:05:46,769 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:05:46,769 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:05:46,769 [Worker-32] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:05:46,769 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:06:53,720 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:06:53,720 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:06:53,720 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:06:53,735 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:28:04,315 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-26 01:28:08,407 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 01:28:09,362 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:28:09,365 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:28:09,366 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:28:09,367 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:28:10,476 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 01:28:11,960 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:28:11,961 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:28:11,963 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:28:11,965 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:33:58,991 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:33:58,992 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:33:58,994 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:33:58,995 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:35:53,832 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:35:53,833 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:35:53,836 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:35:53,837 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:36:41,233 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:36:41,235 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:36:41,240 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:36:41,242 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:43:40,532 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:43:40,533 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:43:40,536 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:43:40,537 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:52:26,561 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:52:26,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:52:26,565 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:52:26,566 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 01:59:14,768 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:59:14,770 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 01:59:14,773 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 01:59:14,775 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 10:55:49,646 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 10:55:49,646 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 10:55:49,646 [Worker-40] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 10:55:49,661 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 10:57:06,560 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 10:57:06,560 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 10:57:06,560 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 10:57:06,560 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 10:59:56,980 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 10:59:56,980 [Worker-38] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 11:00:08,965 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:00:08,980 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 11:01:00,071 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:01:00,071 [Worker-34] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 11:02:18,674 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-26 11:02:19,269 [Worker-38] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 11:02:19,978 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-26 11:02:19,980 [Worker-38] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-26 11:02:20,191 [Worker-38] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-26 11:02:20,722 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:02:20,723 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:02:20,725 [Worker-38] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:02:20,726 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:02:26,735 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:02:26,735 [Worker-39] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 11:03:08,953 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:03:08,954 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:03:08,955 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:03:08,956 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:03:19,040 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-26 11:03:19,540 [Worker-31] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 11:03:20,052 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-26 11:03:20,052 [Worker-31] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-26 11:03:20,251 [Worker-31] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-26 11:03:20,647 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:03:20,649 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:03:20,651 [Worker-36] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:03:20,653 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:03:24,949 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:03:24,949 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 11:05:07,995 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:05:07,995 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 11:05:53,825 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:05:53,825 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 11:06:45,220 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:06:45,220 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 11:07:21,912 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:07:21,913 [Worker-44] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 11:07:28,177 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 11:07:28,177 [Worker-31] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 11:09:21,992 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:21,993 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:09:21,995 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:21,997 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:09:23,017 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:23,018 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:09:23,020 [Worker-39] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:23,021 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:09:40,873 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:40,874 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:09:40,877 [Worker-31] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:40,878 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:09:52,055 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:52,056 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:09:52,058 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:09:52,059 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:13:20,960 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:20,960 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:13:20,960 [Worker-34] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:20,960 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:13:21,992 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:21,992 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:13:21,992 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:21,992 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:13:24,750 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:24,750 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:13:24,750 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:24,750 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:13:41,713 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:41,714 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:13:41,716 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:13:41,716 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:19:09,336 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:19:09,336 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:19:09,336 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:19:09,336 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:19:20,015 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:19:20,015 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:19:20,030 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:19:20,030 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:23:16,790 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:23:16,790 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:23:16,790 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:23:16,790 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:27:04,791 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:27:04,791 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:27:04,791 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:27:04,791 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:43:18,697 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:43:18,697 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:43:18,713 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:43:18,713 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:43:19,737 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:43:19,737 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:43:19,737 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:43:19,737 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:43:57,024 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:43:57,024 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:43:57,024 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:43:57,040 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:44:00,164 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:44:00,164 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:44:00,164 [Worker-42] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:44:00,180 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 11:47:08,152 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:47:08,152 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 11:47:08,152 [Worker-52] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 11:47:08,152 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:09:51,997 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:09:52,001 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:09:52,005 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:09:52,005 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:10:07,837 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:10:07,841 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:10:07,845 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:10:07,849 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:10:49,168 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:10:49,172 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:10:49,172 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:10:49,172 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:10:53,787 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:10:53,791 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:10:53,799 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:10:53,803 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:11:16,151 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:11:16,151 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:11:16,155 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:11:16,155 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:14:29,524 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:14:29,528 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:14:29,536 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:14:29,540 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:14:57,496 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:14:57,500 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:14:57,504 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:14:57,504 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:15:19,031 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:15:19,035 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:15:19,035 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:15:19,039 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:27:49,320 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-26 12:29:06,078 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:06,080 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:29:06,083 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:06,084 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:29:12,150 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:12,152 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:29:12,154 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:12,154 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:29:13,470 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:13,471 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:29:13,473 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:13,474 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:29:15,002 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:15,003 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:29:15,005 [Worker-15] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:15,007 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:29:16,124 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:16,124 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:29:16,126 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:16,127 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:29:28,485 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:28,487 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:29:28,489 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:29:28,490 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:30:10,732 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:30:10,732 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:30:10,734 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:30:10,736 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:34:31,645 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:34:31,647 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:34:31,650 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:34:31,652 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:36:32,044 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:36:32,045 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:36:32,047 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:36:32,048 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:37:53,719 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:37:53,720 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:37:53,722 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:37:53,724 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:38:16,889 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:38:16,890 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:38:16,892 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:38:16,894 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:38:31,423 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:38:31,424 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:38:31,426 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:38:31,427 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:39:06,454 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:39:06,455 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:39:06,458 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:39:06,459 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:39:40,542 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:39:40,543 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:39:40,545 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:39:40,546 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:41:02,216 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 12:41:02,217 [Worker-20] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 12:41:11,491 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 12:41:11,492 [Worker-6] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 12:41:57,936 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:41:57,937 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:41:57,940 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:41:57,942 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:42:05,971 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:42:05,972 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:42:05,979 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:42:05,981 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:42:48,407 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-05-26 12:43:37,286 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:43:37,289 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:43:37,292 [Worker-12] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:43:37,293 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:47:00,527 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:47:00,528 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:47:00,530 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:47:00,531 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:47:01,590 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:47:01,591 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:47:01,593 [Worker-14] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:47:01,594 [Worker-14] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:47:23,991 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-26 12:47:24,733 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 12:47:25,448 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-26 12:47:25,449 [Worker-14] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-26 12:47:25,664 [Worker-14] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-26 12:47:26,140 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:47:26,142 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:47:26,145 [Worker-16] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:47:26,145 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:47:31,573 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 12:47:31,574 [Worker-17] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 12:47:41,030 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 12:47:41,030 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 12:48:06,274 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-05-26 12:48:06,824 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: keyworddriven:keyworddriven:0.0.1-SNAPSHOT @ C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\pom.xml.
+2018-05-26 12:48:07,444 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/main/java
+2018-05-26 12:48:07,445 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /keyworddriven/src/test/java
+2018-05-26 12:48:07,636 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-05-26 12:48:08,010 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:48:08,011 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:48:08,013 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:48:08,014 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:48:30,017 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:48:30,019 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:48:30,021 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:48:30,022 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:49:10,596 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:49:10,597 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:49:10,599 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:49:10,601 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:57:15,907 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:57:15,909 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:57:15,911 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:57:15,912 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:57:29,010 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:57:29,011 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:57:29,014 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:57:29,015 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:57:56,685 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 12:57:56,686 [Worker-10] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-26 12:57:58,936 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:57:58,939 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:57:58,947 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:57:58,951 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 12:58:06,789 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-26 12:58:06,789 [Worker-19] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-26 12:58:14,131 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:58:14,134 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 12:58:14,140 [Worker-20] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 12:58:14,142 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:00:18,702 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:00:18,703 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:00:18,704 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:00:18,705 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:00:29,357 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:00:29,359 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:00:29,361 [Worker-17] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:00:29,362 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:04:32,619 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:04:32,620 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:04:32,623 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:04:32,624 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:04:39,324 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:04:39,327 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:04:39,333 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:04:39,335 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:05:14,331 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:05:14,334 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:05:14,337 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:05:14,339 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:08:33,061 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:08:33,062 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:08:33,067 [Worker-19] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:08:33,068 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:08:34,117 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:08:34,119 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:08:34,121 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:08:34,123 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:09:08,601 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:09:08,602 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:09:08,603 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:09:08,605 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 13:13:43,644 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:13:43,645 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 13:13:43,648 [Worker-21] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 13:13:43,649 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-26 18:41:55,860 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-05-26 18:55:18,227 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 18:55:18,229 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-26 18:55:18,231 [Worker-18] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-26 18:55:18,232 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:34:02,989 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:34:02,989 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:34:02,989 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:34:02,989 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:34:04,067 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:34:04,067 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:34:04,067 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:34:04,067 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:34:38,603 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:34:38,603 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:34:38,603 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:34:38,603 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:35:03,489 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:35:03,489 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:35:03,489 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:35:03,505 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:39:50,994 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:39:51,009 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:39:51,009 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:39:51,009 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:39:55,387 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:39:55,387 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:39:55,387 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:39:55,387 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:40:37,530 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:40:37,530 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:40:37,530 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:40:37,530 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:41:46,528 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:41:46,528 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:41:46,543 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:41:46,543 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:41:55,036 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:41:55,036 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:41:55,036 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:41:55,036 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:43:04,281 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:43:04,281 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:43:04,296 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:43:04,296 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:56:30,812 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:56:30,812 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:56:30,812 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:56:30,828 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 15:57:13,795 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:57:13,795 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 15:57:13,795 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 15:57:13,795 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:00:46,503 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-27 16:00:46,503 [Worker-54] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2018-05-27 16:00:48,936 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:00:48,940 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:00:48,948 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:00:48,952 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:00:54,635 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven
+2018-05-27 16:00:54,635 [Worker-53] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2018-05-27 16:01:02,465 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:01:02,465 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:01:02,465 [Worker-54] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:01:02,465 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:01:28,264 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:01:28,264 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:01:28,264 [Worker-45] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:01:28,264 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:03:55,246 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:03:55,246 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:03:55,261 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:03:55,261 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:05:39,048 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:05:39,048 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:05:39,048 [Worker-43] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:05:39,048 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:07:56,137 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:07:56,137 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:07:56,152 [Worker-53] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:07:56,152 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:47:29,170 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:47:29,170 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:47:29,170 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:47:29,170 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 16:57:32,379 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:57:32,394 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 16:57:32,394 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 16:57:32,394 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 17:24:48,200 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:24:48,200 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 17:24:48,200 [Worker-58] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:24:48,200 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 17:26:44,014 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:26:44,014 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 17:26:44,014 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:26:44,014 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 17:48:48,620 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:48:48,620 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 17:48:48,620 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:48:48,635 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 17:50:28,334 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:50:28,334 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 17:50:28,350 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:50:28,350 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 17:50:45,774 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:50:45,774 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 17:50:45,774 [Worker-61] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:50:45,774 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 17:51:36,193 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:51:36,193 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 17:51:36,209 [Worker-57] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 17:51:36,209 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources
+2018-05-27 18:02:56,286 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 18:02:56,286 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\main\resources
+2018-05-27 18:02:56,286 [Worker-60] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2018-05-27 18:02:56,286 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\ahoss1\Desktop\Workspace_new\Sel_Keyword\keyworddriven\src\test\resources

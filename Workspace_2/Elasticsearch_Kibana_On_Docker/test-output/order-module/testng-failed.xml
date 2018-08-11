@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [order-module]" allow-return-values="true">
+  <test name="order-test(failed)">
+    <classes>
+      <class name="main.java.elasticsearch_Kibana_On_Docker1.OrderTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="googleTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- main.java.elasticsearch_Kibana_On_Docker1.OrderTest -->
+    </classes>
+  </test> <!-- order-test(failed) -->
+</suite> <!-- Failed suite [order-module] -->

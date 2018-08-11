@@ -1,0 +1,85 @@
+package Tab_Browser_PopUps;
+import java.util.concurrent.TimeUnit;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.Keys;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test; 
+
+import java.awt.Robot;
+import java.awt.event.KeyEvent;
+
+import java.awt.AWTException; 
+
+import org.openqa.selenium.JavascriptExecutor;
+
+public class ctrl {
+
+ WebDriver driver; 
+
+ Robot rb;
+
+  
+
+ @BeforeTest
+ public void setup() throws Exception {
+/*		System.setProperty("webdriver.gecko.driver", "C:\\geckodriver\\geckodriver.exe");
+		WebDriver driver = new FirefoxDriver();*/
+		System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
+		WebDriver driver = new ChromeDriver();
+  driver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
+  driver.get("http://www.google.com");
+ }
+ 
+ @Test
+ public void openTab() {
+  //Open tab 2 using CTRL + t keys.
+	 JavascriptExecutor js = (JavascriptExecutor) driver;
+	 js.executeScript("document.querySelector('a[href=http://www.qaautomated.com/p/contact.html]').target='_self");
+   
+
+ //Open URL In 2nd tab.
+ // driver.get("http://www.qaautomated.com/p/contact.html");
+  
+  //Call switchToTab() method to switch to 1st tab
+  switchToTab(); 
+
+  
+
+  //perform required actions on tab 1.
+  driver.findElement(By.xpath("//input[@id='6']")).click();
+  driver.findElement(By.xpath("//input[@id='plus']"));
+  driver.findElement(By.xpath("//input[@id='3']"));
+  driver.findElement(By.xpath("//input[@id='equals']"));
+  
+  //Call switchToTab() method to switch to 2nd tab.
+  switchToTab();
+  
+  //Call switchToTab() method to switch to 1st tab
+  switchToTab();
+
+  
+ } 
+ 
+ public void switchToTab() {
+  //Switching between tabs using CTRL + tab keys.
+  driver.findElement(By.cssSelector("body")).sendKeys(Keys.CONTROL +"\t");
+  //Switch to current selected tab's content.
+  driver.switchTo().defaultContent();  
+ } 
+
+ 
+
+/*@AfterTest
+ public void closeTabs() throws AWTException {
+  //Used Robot class to perform ALT + SPACE + 'c' keypress event.
+  rb =new Robot();
+  rb.keyPress(KeyEvent.VK_ALT);
+  rb.keyPress(KeyEvent.VK_SPACE);
+  rb.keyPress(KeyEvent.VK_C);
+ }*/ 
+}

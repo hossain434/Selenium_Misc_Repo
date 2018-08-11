@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<connections>
+<connection name="http://127.0.0.1:2375" uri="http://127.0.0.1:2375"/>
+<connection name="" uri="http://localhost:2375"/>
+</connections>

@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.EditDependencyDialog">
+		<item value="480" key="width"/>
+		<item value="720" key="x"/>
+		<item value="215" key="y"/>
+		<item value="450" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\ahoss1\Desktop\docker-selenium-test-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\Docker_Sel_Simple_Script-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\selenium_circleCI-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\arquillian-testng-package-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\testng_design_test"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\skipTestBasedOnDefect"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\ReportPDF"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\POMExample"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\PageObjectsDesign"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\MultiFactorAuth_SMS"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\Keyword_Lamda"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\Inject_Page_Object_Using_Guice"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\ImproveTestPerformanceJava8"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\Find_Broken_links"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\Elasticsearch_Kibana_On_Docker"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\Arquillian\src\Arquillian\SearchPageTest.java"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\arquillian-testng-package-master\src\main\java\com\page\SearchTest.java"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\Workspace_2\PageObjectsDesignUsingFluentStyle1"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="DockerDownloadFile"/>
+			<item value="DownloadUploadDocker"/>
+			<item value="Automate_JQueryUI_Sortable_Elements"/>
+			<item value="AutomateJQuerySlider"/>
+			<item value="Arquillian1"/>
+			<item value="Arquillian"/>
+			<item value="PageObjectsDesignUsingFluentStyle2"/>
+			<item value="Page_Objects_In_FluentStyle"/>
+		</list>
+		<list key="groupId">
+			<item value="DockerDownloadFile"/>
+			<item value="DownloadUploadDocker"/>
+			<item value="Automate_JQueryUI_Sortable_Elements"/>
+			<item value="AutomateJQuerySlider"/>
+			<item value="Arquillian1"/>
+			<item value="Arquillian"/>
+			<item value="PageObjectsDesignUsingFluentStyle2"/>
+			<item value="Page_Objects_In_Fluent Style"/>
+		</list>
+		<list key="artifactId">
+			<item value="DockerDownloadFile"/>
+			<item value="DownloadUploadDocker"/>
+			<item value="Automate_JQueryUI_Sortable_Elements"/>
+			<item value="AutomateJQuerySlider"/>
+			<item value="Arquillian1"/>
+			<item value="Arquillian"/>
+			<item value="PageObjectsDesignUsingFluentStyle2"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.editor.dialogs.ManageDependenciesDialog">
+		<item value="843" key="width"/>
+		<item value="539" key="x"/>
+		<item value="215" key="y"/>
+		<item value="450" key="height"/>
+	</section>
+</section>

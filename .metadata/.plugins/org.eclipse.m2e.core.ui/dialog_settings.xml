@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+			<item value="jira"/>
+		</list>
+		<list key="issueManagementUrl">
+			<item value="https://issues.jboss.org/browse/ARQGRA"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.EditDependencyDialog">
+		<item value="480" key="width"/>
+		<item value="970" key="x"/>
+		<item value="252" key="y"/>
+		<item value="450" key="height"/>
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item value="480" key="width"/>
+		<item value="720" key="x"/>
+		<item value="72" key="y"/>
+		<item value="667" key="height"/>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\dog-lightning-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\docker-selenium-jenkinsfile-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\scriptless-page-object-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\MultipleWindowSelenium-test"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\selenium-guice-master"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\docker-selenium-test-master"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="MultipleWindowSelenium-test"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="MultipleWindowSelenium-test"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\docker"/>
+			<item value="C:\Users\ahoss1\Desktop\Workspace_new\test"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="Tab_Browser_PopUps"/>
+			<item value="Handle_Multiple_Browsers_Window"/>
+			<item value="Handle_Multiple_Browser_Window1"/>
+			<item value="Handle_Multiple_Browser_Window"/>
+			<item value="Create_TestNG_Suite_XML_From_Spreadsheet"/>
+			<item value="MultiFactorAuth_Email"/>
+			<item value="ImproveTestPerformanceJava8"/>
+			<item value="ExecuteTestMultipleEnv"/>
+			<item value="Switch_Browsers_Window"/>
+			<item value="Inject_Page_Object_Using_Guice1"/>
+			<item value="Inject_Page_Object_Using_Guice"/>
+			<item value="downloadBrowserDriver"/>
+			<item value="skipTestBasedOnDefect"/>
+		</list>
+		<list key="groupId">
+			<item value="Tab_Browser_PopUps"/>
+			<item value="Handle_Multiple_Browsers_Window"/>
+			<item value="Handle_Multiple_Browser_Window"/>
+			<item value="Create_TestNG_Suite_XML_From_Spreadsheet"/>
+			<item value="MultiFactorAuth_Email"/>
+			<item value="ImproveTestPerformanceJava8"/>
+			<item value="ExecuteTestMultipleEnv"/>
+			<item value="Switch_Browsers_Window"/>
+			<item value="Inject_Page_Object_Using_Guice1"/>
+			<item value="Inject_Page_Object_Using_Guice"/>
+			<item value="downloadBrowserDriver"/>
+			<item value="skipTestBasedOnDefect"/>
+		</list>
+		<list key="artifactId">
+			<item value="Tab_Browser_PopUps"/>
+			<item value="Handle_Multiple_Browsers_Window"/>
+			<item value="Handle_Multiple_Browser_Window"/>
+			<item value="Create_TestNG_Suite_XML_From_Spreadsheet"/>
+			<item value="MultiFactorAuth_Email"/>
+			<item value="ImproveTestPerformanceJava8"/>
+			<item value="ExecuteTestMultipleEnv"/>
+			<item value="Switch_Browsers_Window"/>
+			<item value="Inject_Page_Object_Using_Guice1"/>
+			<item value="Inject_Page_Object_Using_Guice"/>
+			<item value="downloadBrowserDriver"/>
+			<item value="skipTestBasedOnDefect"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

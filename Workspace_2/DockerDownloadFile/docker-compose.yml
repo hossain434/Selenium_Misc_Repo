@@ -1,0 +1,36 @@
+version: "3"
+services:
+  selenium-hub:
+    image: selenium/hub
+    container_name: selenium-hub
+    ports:
+      - "4444:4444"
+  chrome:
+    image: selenium/node-chrome
+    depends_on:
+      - selenium-hub
+    environment:
+      - HUB_PORT_4444_TCP_ADDR=selenium-hub
+      - HUB_PORT_4444_TCP_PORT=4444
+    volumes:
+      - /Users/ahoss1/Downloads:/home/Downloads
+  firefox:
+    image: selenium/node-firefox
+    depends_on:
+      - selenium-hub
+    environment:
+      - HUB_PORT_4444_TCP_ADDR=selenium-hub
+      - HUB_PORT_4444_TCP_PORT=4444
+    volumes:
+      - /Users/ahoss1/Downloads:/home/Downloads
+  containertest:
+    image: sel/filedownload:latest
+    depends_on:
+      - chrome
+      - firefox
+    environment:
+      - MODULE=testng.xml
+      - BROWSER=firefox
+      - SELENIUM_HUB=selenium-hub     
+    volumes:
+      - /Users/ahoss1/Downloads:/home/Downloads

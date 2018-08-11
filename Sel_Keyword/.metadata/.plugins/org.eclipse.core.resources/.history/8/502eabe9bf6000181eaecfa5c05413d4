@@ -1,0 +1,9 @@
+# Home Page Objects
+btn_MyAccount=.//*[@id='account']/a
+btn_LogOut=table>tbody>tr>.mouseOut a:nth-child(1)
+
+
+# Login Page Object
+txtbx_UserName=input[name='userName']
+txtbx_Password=input[name='password']
+btn_LogIn=input[name='submit']

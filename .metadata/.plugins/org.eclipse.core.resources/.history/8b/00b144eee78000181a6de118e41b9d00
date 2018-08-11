@@ -1,0 +1,47 @@
+package Find_Broken_links;
+import java.util.List;
+import java.util.Map;
+import java.util.stream.Collectors;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.BeforeTest;
+
+public class TestPage {
+	//private WebDriver driver;
+	@BeforeTest
+	public void goTo(){
+		 
+	    	System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
+			WebDriver driver = new ChromeDriver();
+	driver.get("https://www.yahoo.com");
+	}
+	Map<Integer, List<String>> map = driver.findElements(By.xpath("//*[@href]")) 
+	                .stream()                             // find all elements which has href attribute & process one by one
+	                .map(ele -> ele.getAttribute("href")) // get the value of href
+	                .map(String::trim)                    // trim the text
+	                .distinct()                           // there could be duplicate links , so find unique
+	                .collect(Collectors.groupingBy(LinkUtil::getResponseCode)); // group the links based on the response code
+	
+
+}
+map.get(200) // will contain all the good urls
+map.get(403) // will contain all the 'Forbidden' urls   
+map.get(404) // will contain all the 'Not Found' urls   
+map.get(0) // will contain all the unknown host urls
+
+Map<Boolean, List<String>> map= driver.findElements(By.xpath("//*[@href]"))  // find all elements which has href attribute
+.stream()
+.map(ele -> ele.getAttribute("href"))   // get the value of href
+.map(String::trim)                      // trim the text
+.distinct()                             // there could be duplicate links , so find unique
+.collect(Collectors.partitioningBy(link -> LinkUtil.getResponseCode(link) == 200)); // partition based on response code
+
+map.get(true) // will contain all the good urls
+map.get(false) // will contain all the bad urls
+
+map.get(false)
+.stream()
+.forEach(System.out::println);
+}
+}

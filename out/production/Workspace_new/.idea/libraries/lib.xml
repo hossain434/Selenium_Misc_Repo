@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ReportPDF/lib/dsn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReportPDF/lib/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReportPDF/lib/mailapi.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReportPDF/lib/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReportPDF/lib/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ReportPDF/lib/smtp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

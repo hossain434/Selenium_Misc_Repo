@@ -1,0 +1,33 @@
+package Hybrid_Frame_TestNG;
+
+import org.testng.annotations.Test;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
+import org.testng.ITestContext;
+import org.testng.annotations.BeforeClass;
+
+public class UserLoginTest extends BaseTest{
+    
+    private WebDriver driver;
+    private PageObjects pageObjects;
+
+    @BeforeClass
+    public void getCtx(ITestContext ctx){
+        driver = (WebDriver) ctx.getAttribute("driver");
+        pageObjects = PageFactory.initElements(driver, PageObjects.class);
+   }
+
+    @SuppressWarnings("static-access")
+	@Test
+    public void login() throws InterruptedException {
+    	 
+         //validate if the login page (or username) is loaded
+         Assert.assertTrue(pageObjects.isAt()); 
+    	pageObjects.init(driver).EnterUserName("arf");
+    	pageObjects.EnterPassword("arf");
+    	pageObjects.ClickLoginButton();
+    	
+    }
+
+}

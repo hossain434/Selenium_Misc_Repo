@@ -1,0 +1,8 @@
+# Home Page Objects
+btn_LogOut="table>tbody>tr>.mouseOut a:nth-child(1)"
+
+
+# Login Page Object
+txtbx_UserName=userName
+txtbx_Password=password
+btn_LogIn=submit

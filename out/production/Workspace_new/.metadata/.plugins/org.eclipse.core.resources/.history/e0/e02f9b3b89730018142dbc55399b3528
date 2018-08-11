@@ -1,0 +1,55 @@
+//http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
+package seleniunInDocker;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class GooglePage {
+
+    private static WebDriver driver;
+   private static WebDriverWait wait;
+
+    @FindBy(name = "q")
+    private static WebElement searchBox;
+
+    @FindBy(css = "input.lsb")
+    private static WebElement searchButton;
+
+    @FindBy(className = "")
+    private static List<WebElement> searchResults;
+
+    @FindBy(id = "foot")
+    private WebElement footer;
+
+    public GooglePage(WebDriver driver) {
+        this.driver = driver;
+        PageFactory.initElements(driver, this);
+       this.wait = new WebDriverWait(driver, 3);
+    }
+
+    public static void goTo() {
+    	System.setProperty("webdriver.chrome.driver","C:\\chromedriver\\chromedriver.exe"); 
+    	driver = new ChromeDriver();
+        driver.get("https://www.google.com");
+    }
+
+    public static void searchFor(String text) throws InterruptedException {
+        searchBox.sendKeys(text);
+       wait.until(ExpectedConditions.elementToBeClickable(searchButton));
+        searchButton.click();
+       wait.until(ExpectedConditions.presenceOfElementLocated(By.className("rc")));
+    }
+
+    public static List<WebElement> getResults() {
+        return searchResults;
+    }
+
+}

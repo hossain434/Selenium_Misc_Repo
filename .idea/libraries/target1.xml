@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="target1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/docker-selenium-test-master/target/container-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/docker-selenium-test-master/target/container-test-docker-info.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,33 @@
+//http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
+package seleniunInDocker;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Test;
+import seleniunInDocker.GooglePage;
+public class GoogleTestLocal{
+
+
+/*    @BeforeTest
+    public void setUp() {
+        google = new GooglePage(driver);
+    }*/
+   
+    
+    @Test
+    public void googleTestLocal() throws InterruptedException {
+
+    	GooglePage.goTo();
+    	Thread.sleep(2000);
+    	GooglePage.searchFor("test".toString());
+        Assert.assertTrue(GooglePage.getResults().size() >= 10);
+    }
+/*    
+    @AfterTest
+    public void tearDown() throws InterruptedException {
+        driver.quit();    
+
+}*/
+}

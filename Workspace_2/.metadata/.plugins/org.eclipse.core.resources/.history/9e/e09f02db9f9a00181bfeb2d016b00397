@@ -1,0 +1,21 @@
+package DownloadUploadDocker;
+
+public class DownloadTest{
+@Test
+public void downloadTest() {
+    downloadPage.goTo();
+    downloadPage.downloadFile();
+
+    Path path = Paths.get("/home/vins/Downloads/some-file.txt");
+
+    //this will wait until the file download is complete.
+    Awaitility.await()
+        .atMost(1, TimeUnit.MINUTES)
+        .until(() -> {
+            return path.toFile().exists();
+        });
+
+
+    Assert.assertTrue(path.toFile().exists());
+}
+}

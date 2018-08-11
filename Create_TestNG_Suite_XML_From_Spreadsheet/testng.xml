@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Create_TestNG_Suite_XML_From_Spreedsheet">
+	<parameter name="browser" value="CHROME"></parameter>
+	<parameter name="username" value="arf" />
+	<parameter name="password" value="arf" />
+	<parameter name="cc_frst_name" value="arf" />
+	<parameter name="cc_last_name" value="arf" />
+	<parameter name="creditnumbers" value="123" />
+	<test name="Check for successful user's login, Search Flight and purchase">
+		<classes>
+			<class name="appModular.UserLoginTest" />
+			<class name="appModular.SearchFlight" />
+			<class name="appModular.PassengerDetails" />
+			<class name="appModular.BookTicket" />
+			<class name="appModular.UserLogoutTest" />
+		</classes>
+	</test> <!-- Test -->
+	<test name="Check for successful user's login, Search Flight without purchase">
+		<classes>
+			<class name="appModular.UserLoginTest" />
+			<class name="appModular.SearchFlight" />
+			<class name="appModular.UserLogoutTest" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->

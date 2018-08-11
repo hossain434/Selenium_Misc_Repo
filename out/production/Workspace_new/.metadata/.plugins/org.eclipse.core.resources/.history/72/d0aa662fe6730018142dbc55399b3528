@@ -1,0 +1,51 @@
+//http://www.testautomationguru.com/selenium-webdriver-how-to-run-automated-tests-inside-a-docker-container/
+package seleniunInDocker;
+
+import java.util.List;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class GooglePage {
+	private  WebDriver driver;
+    @FindBy(name = "q")
+    public  WebElement searchBox;
+
+    @FindBy(css = "input.lsb")
+    private WebElement searchButton;
+
+    @FindBy(className = "")
+    private static  List<WebElement> searchResults;
+
+    @FindBy(id = "foot")
+    private WebElement footer;
+
+/*    private GooglePage(WebDriver driver) {
+    	this.driver = driver;
+        PageFactory.initElements(driver, this);
+    }
+    public static GooglePage using(WebDriver driver) {
+        return new GooglePage(driver);
+    }*/
+    public GooglePage goTo() {
+    	System.setProperty("webdriver.chrome.driver","C:\\chromedriver\\chromedriver.exe"); 
+    	driver = new ChromeDriver();
+        driver.get("https://www.google.com");
+        return this;
+    }
+
+    public void  setText(String text) {
+        searchBox.sendKeys(text);
+
+    }
+    public static List<WebElement> getResults() {
+        return searchResults;
+    }
+
+}

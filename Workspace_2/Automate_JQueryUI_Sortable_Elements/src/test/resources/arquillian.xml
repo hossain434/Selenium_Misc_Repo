@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<arquillian xmlns="http://jboss.com/arquillian" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://jboss.org/schema/arquillian http://jboss.org/schema/arquillian/arquillian_1_0.xsd">
+
+	<extension qualifier="webdriver">
+	<property name="browser">chrome</property>
+	</extension>
+	<extension qualifier="drone">
+		<property name="instantiationTimeoutInSeconds">120</property>
+	</extension>
+	<extension qualifier="graphene">
+		<property name="waitGuiInterval">5</property>
+		<property name="waitAjaxInterval">10</property>
+		<property name="waitModelInterval">30</property>
+		<property name="waitGuardInterval">30</property>
+	</extension>
+
+</arquillian>

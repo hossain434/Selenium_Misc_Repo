@@ -1,0 +1,5 @@
+package Handle_Page_Synchronization_Using_Awaitility;
+
+public class Waiting_For_Element_To_Disappear {
+
+}

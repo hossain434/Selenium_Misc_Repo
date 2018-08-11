@@ -1,0 +1,69 @@
+package Switch_Browsers_Window;
+
+import java.awt.AWTException;
+import java.awt.Robot;
+import java.awt.Toolkit;
+import java.awt.datatransfer.StringSelection;
+import java.awt.event.KeyEvent;
+
+import org.openqa.selenium.Alert;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.Test;
+
+import com.google.inject.Inject;
+
+public class ToolsQATest {
+
+/*    @Inject
+    private ToolsQA toolsQA;
+
+    @Inject
+    private ToolsQANewWindow toolsQANewWindow;
+
+    @Test
+    public void switchTest() {
+
+        toolsQA.goTo();
+        toolsQA.launchWindow();
+        toolsQANewWindow.getTitle();
+        }*/
+
+	@Test
+	public void login() throws InterruptedException, AWTException
+	{
+	
+	System.setProperty("webdriver.chrome.driver", "C:\\chromedriver\\chromedriver.exe");
+	WebDriver driver = new ChromeDriver();
+driver.get("http://upastg.nike.com/upa/");
+//create robot for keyboard operations
+
+//Code to handle Basic Browser Authentication in Selenium.
+Alert aa = driver.switchTo().alert();
+
+Robot a = new Robot();
+aa.sendKeys("host"+"\\"+"user");  
+
+a.keyPress(KeyEvent.VK_TAB);
+a.keyRelease(KeyEvent.VK_TAB);
+a.keyRelease(KeyEvent.VK_ADD);                
+
+setClipboardData("password");
+
+a.keyPress(KeyEvent.VK_CONTROL);
+a.keyPress(KeyEvent.VK_V);
+a.keyRelease(KeyEvent.VK_V);
+a.keyRelease(KeyEvent.VK_CONTROL);
+//Thread.sleep(5000);
+aa.accept();        
+
+
+
+
+}
+
+private static void setClipboardData(String string) {
+// TODO Auto-generated method stub
+          StringSelection stringSelection = new StringSelection(string);                            Toolkit.getDefaultToolkit().getSystemClipboard().setContents(stringSelection, null);
+}
+}

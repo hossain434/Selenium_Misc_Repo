@@ -1,0 +1,13 @@
+package Handle_Page_Synchronization_Using_Awaitility;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

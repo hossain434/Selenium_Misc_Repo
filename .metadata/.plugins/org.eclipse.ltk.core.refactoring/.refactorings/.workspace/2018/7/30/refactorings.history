@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;Inject_Page_Object_Using_Guice1&apos;" deleteContents="false" description="Delete resource &apos;Inject_Page_Object_Using_Guice1&apos;" element1="/Inject_Page_Object_Using_Guice1" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1532370023502"/>&#x0A;<refactoring comment="Delete resource &apos;Handle_Multiple_Browser_Window&apos;" deleteContents="false" description="Delete resource &apos;Handle_Multiple_Browser_Window&apos;" element1="/Handle_Multiple_Browser_Window" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1532806788436"/>
+</session>

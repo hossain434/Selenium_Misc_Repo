@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [search-module]" allow-return-values="true">
+  <test name="search-test(failed)">
+    <classes>
+      <class name="com.testautomationguru.container.test.SearchTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="googleTest"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.testautomationguru.container.test.SearchTest -->
+    </classes>
+  </test> <!-- search-test(failed) -->
+</suite> <!-- Failed suite [search-module] -->

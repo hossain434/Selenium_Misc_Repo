@@ -1,0 +1,19 @@
+2018-05-26 12:11:02,960 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:11:02,960 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:11:02,960 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-05-26 12:11:02,960 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:11:02,960 INFO  [Log] **************************************************************************************** 
+2018-05-26 12:11:02,960 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2018-05-26 12:11:02,964 INFO  [Log] Opening Browser 
+2018-05-26 12:11:05,406 INFO  [Log] Chrome browser started 
+2018-05-26 12:11:05,614 INFO  [Log] Navigating to URL 
+2018-05-26 12:11:07,066 INFO  [Log] Entering the text in txtbx_UserName 
+2018-05-26 12:11:07,226 INFO  [Log] Entering the text in txtbx_Password 
+2018-05-26 12:11:07,342 INFO  [Log] Clicking on Webelement btn_LogIn 
+2018-05-26 12:11:07,766 INFO  [Log] Wait for 5 seconds 
+2018-05-26 12:11:12,849 INFO  [Log] Closing the browser 
+2018-05-26 12:11:13,744 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-05-26 12:11:13,744 INFO  [Log] X 
+2018-05-26 12:11:13,744 INFO  [Log] X 
+2018-05-26 12:11:13,744 INFO  [Log] X 
+2018-05-26 12:11:13,744 INFO  [Log] X 

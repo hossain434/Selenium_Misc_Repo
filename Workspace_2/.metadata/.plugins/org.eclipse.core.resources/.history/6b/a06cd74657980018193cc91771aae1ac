@@ -1,0 +1,13 @@
+package Handle_Annoying_Random_Popup_Alerts;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+    }
+}

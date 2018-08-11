@@ -1,0 +1,15 @@
+package downloadBrowserDriver;
+
+import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
+
+public class Chrome_Test {
+	private WebDriver driver;
+
+	@Test
+	public void test() {
+		WebDriver driver = new HtmlUnitDriver();
+		driver.get("http://www.google.com");
+	}
+
+}

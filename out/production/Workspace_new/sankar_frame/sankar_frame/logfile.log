@@ -1,0 +1,66 @@
+2017-01-31 21:34:57,925 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:34:57,926 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:34:57,926 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-01-31 21:34:57,926 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:34:57,926 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:34:57,927 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-01-31 21:34:57,928 INFO  [Log] Opening Browser 
+2017-01-31 21:34:58,046 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-01-31 21:34:58,195 INFO  [Log] Closing the browser 
+2017-01-31 21:34:58,195 ERROR [Log] Not able to Close the Browser --- null 
+2017-01-31 21:34:58,246 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-01-31 21:34:58,246 INFO  [Log] X 
+2017-01-31 21:34:58,246 INFO  [Log] X 
+2017-01-31 21:34:58,246 INFO  [Log] X 
+2017-01-31 21:34:58,246 INFO  [Log] X 
+2017-01-31 21:41:14,758 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:41:14,759 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:41:14,759 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-01-31 21:41:14,759 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:41:14,759 INFO  [Log] **************************************************************************************** 
+2017-01-31 21:41:14,760 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-01-31 21:41:14,761 INFO  [Log] Opening Browser 
+2017-01-31 21:41:14,826 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-01-31 21:41:14,938 INFO  [Log] Closing the browser 
+2017-01-31 21:41:14,938 ERROR [Log] Not able to Close the Browser --- null 
+2017-01-31 21:41:14,988 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-01-31 21:41:14,989 INFO  [Log] X 
+2017-01-31 21:41:14,989 INFO  [Log] X 
+2017-01-31 21:41:14,989 INFO  [Log] X 
+2017-01-31 21:41:14,989 INFO  [Log] X 
+2017-01-31 22:05:26,034 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:05:26,034 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:05:26,034 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-01-31 22:05:26,035 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:05:26,035 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:05:26,036 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-01-31 22:05:26,037 INFO  [Log] Opening Browser 
+2017-01-31 22:05:26,101 INFO  [Log] Not able to open the Browser --- The path to the driver executable must be set by the webdriver.gecko.driver system property; for more information, see https://github.com/mozilla/geckodriver. The latest version can be downloaded from https://github.com/mozilla/geckodriver/releases 
+2017-01-31 22:05:26,213 INFO  [Log] Closing the browser 
+2017-01-31 22:05:26,213 ERROR [Log] Not able to Close the Browser --- null 
+2017-01-31 22:05:26,261 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-01-31 22:05:26,262 INFO  [Log] X 
+2017-01-31 22:05:26,262 INFO  [Log] X 
+2017-01-31 22:05:26,262 INFO  [Log] X 
+2017-01-31 22:05:26,262 INFO  [Log] X 
+2017-01-31 22:06:15,823 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:06:15,824 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:06:15,824 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 LogIn_01       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-01-31 22:06:15,824 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:06:15,824 INFO  [Log] **************************************************************************************** 
+2017-01-31 22:06:15,826 ERROR [Log] Class Utils | Method getCellData | Exception desc : null 
+2017-01-31 22:06:15,826 INFO  [Log] Opening Browser 
+2017-01-31 22:06:18,604 INFO  [Log] Chrome browser started 
+2017-01-31 22:06:18,730 INFO  [Log] Navigating to URL 
+2017-01-31 22:06:23,730 INFO  [Log] Clicking on Webelement btn_MyAccount 
+2017-01-31 22:06:25,508 INFO  [Log] Entering the text in txtbx_UserName 
+2017-01-31 22:06:25,599 INFO  [Log] Entering the text in txtbx_Password 
+2017-01-31 22:06:25,684 INFO  [Log] Clicking on Webelement btn_LogIn 
+2017-01-31 22:06:25,768 INFO  [Log] Wait for 5 seconds 
+2017-01-31 22:06:30,826 INFO  [Log] Clicking on Webelement btn_LogOut 
+2017-01-31 22:06:30,945 INFO  [Log] Closing the browser 
+2017-01-31 22:06:32,716 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2017-01-31 22:06:32,716 INFO  [Log] X 
+2017-01-31 22:06:32,716 INFO  [Log] X 
+2017-01-31 22:06:32,716 INFO  [Log] X 
+2017-01-31 22:06:32,716 INFO  [Log] X 
